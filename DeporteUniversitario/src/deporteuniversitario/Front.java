@@ -39,6 +39,8 @@ public class Front extends javax.swing.JFrame {
         jScrollPane1 = new javax.swing.JScrollPane();
         jLabel8 = new javax.swing.JLabel();
         jPanel20 = new javax.swing.JPanel();
+        jScrollPane5 = new javax.swing.JScrollPane();
+        jLabel19 = new javax.swing.JLabel();
         Presentacion = new javax.swing.JPanel();
         jTabbedPane2 = new javax.swing.JTabbedPane();
         jPanel4 = new javax.swing.JPanel();
@@ -60,21 +62,114 @@ public class Front extends javax.swing.JFrame {
         jScrollPane3 = new javax.swing.JScrollPane();
         jLabel17 = new javax.swing.JLabel();
         HabilidadesFisicas = new javax.swing.JPanel();
+        jTabbedPane4 = new javax.swing.JTabbedPane();
+        jPanel8 = new javax.swing.JPanel();
+        jLabel15 = new javax.swing.JLabel();
+        jLabel16 = new javax.swing.JLabel();
+        jLabel18 = new javax.swing.JLabel();
+        jPanel9 = new javax.swing.JPanel();
+        jScrollPane4 = new javax.swing.JScrollPane();
+        jLabel20 = new javax.swing.JLabel();
         LanzarAtrapar = new javax.swing.JPanel();
+        jTabbedPane5 = new javax.swing.JTabbedPane();
+        jPanel10 = new javax.swing.JPanel();
+        jLabel21 = new javax.swing.JLabel();
+        jLabel22 = new javax.swing.JLabel();
+        jLabel23 = new javax.swing.JLabel();
+        jPanel11 = new javax.swing.JPanel();
+        jScrollPane6 = new javax.swing.JScrollPane();
+        jLabel24 = new javax.swing.JLabel();
         CapacidadesCondicionales = new javax.swing.JPanel();
+        jTabbedPane6 = new javax.swing.JTabbedPane();
+        jPanel12 = new javax.swing.JPanel();
+        jLabel25 = new javax.swing.JLabel();
+        jLabel26 = new javax.swing.JLabel();
+        jLabel27 = new javax.swing.JLabel();
+        jPanel13 = new javax.swing.JPanel();
+        jScrollPane7 = new javax.swing.JScrollPane();
+        jLabel28 = new javax.swing.JLabel();
         PrimerParcial = new javax.swing.JPanel();
+        jTabbedPane7 = new javax.swing.JTabbedPane();
+        jPanel14 = new javax.swing.JPanel();
+        jLabel29 = new javax.swing.JLabel();
+        jLabel30 = new javax.swing.JLabel();
+        jLabel31 = new javax.swing.JLabel();
+        jPanel15 = new javax.swing.JPanel();
+        jScrollPane8 = new javax.swing.JScrollPane();
+        jLabel32 = new javax.swing.JLabel();
         Desplazamiento = new javax.swing.JPanel();
+        jTabbedPane8 = new javax.swing.JTabbedPane();
+        jPanel16 = new javax.swing.JPanel();
+        jLabel33 = new javax.swing.JLabel();
+        jLabel34 = new javax.swing.JLabel();
+        jLabel35 = new javax.swing.JLabel();
+        jPanel17 = new javax.swing.JPanel();
+        jScrollPane9 = new javax.swing.JScrollPane();
+        jLabel36 = new javax.swing.JLabel();
         Coordinacion = new javax.swing.JPanel();
+        jTabbedPane9 = new javax.swing.JTabbedPane();
+        jPanel18 = new javax.swing.JPanel();
+        jLabel37 = new javax.swing.JLabel();
+        jLabel38 = new javax.swing.JLabel();
+        jLabel39 = new javax.swing.JLabel();
+        jPanel19 = new javax.swing.JPanel();
+        jScrollPane10 = new javax.swing.JScrollPane();
+        jLabel40 = new javax.swing.JLabel();
         SemanaSanta = new javax.swing.JPanel();
+        jTabbedPane10 = new javax.swing.JTabbedPane();
+        jPanel21 = new javax.swing.JPanel();
+        jLabel41 = new javax.swing.JLabel();
+        jLabel42 = new javax.swing.JLabel();
+        jLabel43 = new javax.swing.JLabel();
+        jPanel22 = new javax.swing.JPanel();
+        jScrollPane11 = new javax.swing.JScrollPane();
+        jLabel44 = new javax.swing.JLabel();
         EjerciciosDeBajoImpacto = new javax.swing.JPanel();
+        jTabbedPane11 = new javax.swing.JTabbedPane();
+        jPanel23 = new javax.swing.JPanel();
+        jLabel45 = new javax.swing.JLabel();
+        jLabel46 = new javax.swing.JLabel();
+        jLabel47 = new javax.swing.JLabel();
+        jPanel24 = new javax.swing.JPanel();
+        jScrollPane12 = new javax.swing.JScrollPane();
+        jLabel48 = new javax.swing.JLabel();
         SegundoParcial = new javax.swing.JPanel();
+        jTabbedPane12 = new javax.swing.JTabbedPane();
+        jPanel25 = new javax.swing.JPanel();
+        jLabel49 = new javax.swing.JLabel();
+        jLabel50 = new javax.swing.JLabel();
+        jLabel51 = new javax.swing.JLabel();
+        jPanel26 = new javax.swing.JPanel();
+        jScrollPane13 = new javax.swing.JScrollPane();
+        jLabel52 = new javax.swing.JLabel();
         CompetenciaAtletica = new javax.swing.JPanel();
+        jTabbedPane13 = new javax.swing.JTabbedPane();
+        jPanel27 = new javax.swing.JPanel();
+        jLabel53 = new javax.swing.JLabel();
+        jLabel54 = new javax.swing.JLabel();
+        jLabel55 = new javax.swing.JLabel();
+        jPanel28 = new javax.swing.JPanel();
+        jScrollPane14 = new javax.swing.JScrollPane();
+        jLabel56 = new javax.swing.JLabel();
         ElJuego = new javax.swing.JPanel();
+        jTabbedPane14 = new javax.swing.JTabbedPane();
+        jPanel29 = new javax.swing.JPanel();
+        jLabel57 = new javax.swing.JLabel();
+        jLabel58 = new javax.swing.JLabel();
+        jLabel59 = new javax.swing.JLabel();
+        jPanel30 = new javax.swing.JPanel();
+        jScrollPane15 = new javax.swing.JScrollPane();
+        jLabel60 = new javax.swing.JLabel();
         Velocidad = new javax.swing.JPanel();
+        jTabbedPane15 = new javax.swing.JTabbedPane();
+        jPanel31 = new javax.swing.JPanel();
+        jLabel61 = new javax.swing.JLabel();
+        jLabel62 = new javax.swing.JLabel();
+        jLabel63 = new javax.swing.JLabel();
+        jPanel32 = new javax.swing.JPanel();
+        jScrollPane16 = new javax.swing.JScrollPane();
+        jLabel64 = new javax.swing.JLabel();
         jLabel6 = new javax.swing.JLabel();
-        jMenuBar1 = new javax.swing.JMenuBar();
-        jMenu1 = new javax.swing.JMenu();
-        jMenu2 = new javax.swing.JMenu();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
         setTitle("Bitacora - Menu");
@@ -132,15 +227,28 @@ public class Front extends javax.swing.JFrame {
 
         jPanel20.setOpaque(false);
 
+        jScrollPane5.setHorizontalScrollBarPolicy(javax.swing.ScrollPaneConstants.HORIZONTAL_SCROLLBAR_NEVER);
+
+        jLabel19.setBackground(new java.awt.Color(255, 255, 255));
+        jLabel19.setFont(new java.awt.Font("Times New Roman", 0, 14)); // NOI18N
+        jLabel19.setText("<html><br><center><b>MEDIDAS DE PROTECCIÓN BÁSICAS</b></center><justify><br><ul><li type=\"disc\"><b>Lávese las manos frecuentemente:</b> Lávese las manos con frecuencia con un<br>desinfectante de manos a base de alcohol o con agua y jabón.</li><br><li type=\"disc\"><b>Adopte medidas de higiene respiratoria:</b> Al toser o estornudar, cúbrase la boca y la<br>nariz con el codo flexionado o con un pañuelo; tire el pañuelo inmediatamente y lávese<br>las manos con un desinfectante de manos a base de alcohol, o con agua y jabón.<br></li>     <br><li type=\"disc\"><b>Mantenga el distanciamiento social:</b> Mantenga al menos 1 metro (3 pies) de<br>distancia entre usted y las demás personas, particularmente aquellas que tosan,<br>estornuden y tengan fiebre.<br></li>"
+            + "<br><li type=\"disc\"><b>Lávese las manos frecuentemente:</b> Las manos tocan muchas superficies que<br>pueden estar contaminadas con el virus. Si se toca los ojos, la nariz o la boca con las<br>manos contaminadas, puedes transferir el virus de la superficie a si mismo.</li><br>"
+            + "<br><li type=\"disc\"><b>Si tiene fiebre, tos y dificultad para respirar, solicite atención médica a tiempo:</b><br> Indique a su prestador de atención de salud si ha viajado a una zona de China en la que se<br>haya notificado la presencia del 2019-nCoV, o si ha tenido un contacto cercano con<br>alguien que haya viajado desde China y tenga síntomas respiratorios.</li><br>Siempre que tenga fiebre, tos y dificultad para respirar, es importante que busque<br>atención médica de inmediato, ya que dichos síntomas pueden deberse a una infección respiratoria o<br>a otra afección grave. Los síntomas respiratorios con fiebre pueden tener diversas<br>causas, y dependiendo de sus antecedentes de viajes y circunstancias personales,<br>el 2019-nCoVpodría ser una de ellas."
+            + "</ul><br><center><b>MANTÉNGASE SIEMPRE INFORMAD@</b></center><br>"
+            + "<br><a href=\"https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/infografia-coronavirus-adulto-mayor-19.pdf\">www.minsalud.gov.co</a><br><html>");
+        jLabel19.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
+        jLabel19.setOpaque(true);
+        jScrollPane5.setViewportView(jLabel19);
+
         javax.swing.GroupLayout jPanel20Layout = new javax.swing.GroupLayout(jPanel20);
         jPanel20.setLayout(jPanel20Layout);
         jPanel20Layout.setHorizontalGroup(
             jPanel20Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 566, Short.MAX_VALUE)
+            .addComponent(jScrollPane5, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, 566, Short.MAX_VALUE)
         );
         jPanel20Layout.setVerticalGroup(
             jPanel20Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 365, Short.MAX_VALUE)
+            .addComponent(jScrollPane5, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, 365, Short.MAX_VALUE)
         );
 
         jTabbedPaneMenu.addTab("Info.util : Prevencion Covid-19", jPanel20);
@@ -280,7 +388,7 @@ public class Front extends javax.swing.JFrame {
 
         jLabel17.setBackground(new java.awt.Color(255, 255, 255));
         jLabel17.setFont(new java.awt.Font("Times New Roman", 0, 14)); // NOI18N
-        jLabel17.setText("<html><center><b>Calentamiento Neuromuscular</b></center><justify><br><b>Que es?</b><br>es un conjunto de ejercicios ordenados graduados, de todos los músculos y articulaciones cuya<br>finalidad es preparar al organismo para mejor rendimiento. La finalidad del calentamiento es<br>conseguir que nuestro organismo alcance un nivel óptimo de forma paulatina, para que desde el<br>comienzo podamos rendir al máximo en la actividad. Y su finalidad es Entre las finalidades qué se<br>persiguen con la realización del acondicionamiento neuromuscular o calentamiento tenemos las<br>siguientes, Elevar la temperatura general del cuerpo, Elevar la temperatura interna muscular,<br>Alongar músculos y ligamentos, Aumentar el grado de excitabilidad del sistema nervioso central.<br><br><center><img src = '../Imagenes/fondo.jpg'></center><html>");
+        jLabel17.setText("<html><center><b>Calentamiento Neuromuscular</b></center><justify><br><b>QUE ES?</b><br>es un conjunto de ejercicios ordenados graduados, de todos los músculos y articulaciones cuya<br>finalidad es preparar al organismo para mejor rendimiento. La finalidad del calentamiento es<br>conseguir que nuestro organismo alcance un nivel óptimo de forma paulatina, para que desde el<br>comienzo podamos rendir al máximo en la actividad. Y su finalidad es Entre las finalidades qué se<br>persiguen con la realización del acondicionamiento neuromuscular o calentamiento tenemos las<br>siguientes, Elevar la temperatura general del cuerpo, Elevar la temperatura interna muscular,<br>Alongar músculos y ligamentos, Aumentar el grado de excitabilidad del sistema nervioso central.<br><br><center><img src = '../Imagenes/fondo.jpg'></center><html>");
         jLabel17.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
         jLabel17.setOpaque(true);
         jScrollPane3.setViewportView(jLabel17);
@@ -315,180 +423,852 @@ public class Front extends javax.swing.JFrame {
 
         HabilidadesFisicas.setOpaque(false);
 
+        jTabbedPane4.setBackground(new java.awt.Color(255, 255, 255));
+        jTabbedPane4.setOpaque(true);
+        jTabbedPane4.setPreferredSize(new java.awt.Dimension(671, 341));
+
+        jPanel8.setOpaque(false);
+        jPanel8.setPreferredSize(new java.awt.Dimension(671, 341));
+        jPanel8.setLayout(null);
+
+        jLabel15.setFont(new java.awt.Font("Times New Roman", 1, 15)); // NOI18N
+        jLabel15.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel15.setText("HABILIDADES FISICAS");
+        jLabel15.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
+        jPanel8.add(jLabel15);
+        jLabel15.setBounds(0, 0, 560, 45);
+
+        jLabel16.setFont(new java.awt.Font("Times New Roman", 0, 15)); // NOI18N
+        jLabel16.setText("<html><justify>En esta clase se realizaron diferentes actividades físicas, que ejercitan los diversos músculos del cuerpo en general aprovechando el ambiente de trabajo, lo que permite oxigenar la irrigación sanguínea a lo largo de todo el organismo particularmente del sistema muscular. A este tipo de ejercicio se le suele llamar “Calentamiento Neuromuscular”..<html>");
+        jLabel16.setVerticalAlignment(javax.swing.SwingConstants.TOP);
+        jLabel16.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+        jPanel8.add(jLabel16);
+        jLabel16.setBounds(10, 53, 325, 280);
+
+        jLabel18.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
+        jLabel18.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+        jPanel8.add(jLabel18);
+        jLabel18.setBounds(345, 51, 210, 280);
+
+        jTabbedPane4.addTab("Clases", jPanel8);
+
+        jPanel9.setOpaque(false);
+        jPanel9.setPreferredSize(new java.awt.Dimension(671, 341));
+
+        jScrollPane4.setHorizontalScrollBarPolicy(javax.swing.ScrollPaneConstants.HORIZONTAL_SCROLLBAR_NEVER);
+
+        jLabel20.setBackground(new java.awt.Color(255, 255, 255));
+        jLabel20.setFont(new java.awt.Font("Times New Roman", 0, 14)); // NOI18N
+        jLabel20.setText("<html><center><b>Calentamiento Neuromuscular</b></center><justify><br><b>QUE ES?</b><br>es un conjunto de ejercicios ordenados graduados, de todos los músculos y articulaciones cuya<br>finalidad es preparar al organismo para mejor rendimiento. La finalidad del calentamiento es<br>conseguir que nuestro organismo alcance un nivel óptimo de forma paulatina, para que desde el<br>comienzo podamos rendir al máximo en la actividad. Y su finalidad es Entre las finalidades qué se<br>persiguen con la realización del acondicionamiento neuromuscular o calentamiento tenemos las<br>siguientes, Elevar la temperatura general del cuerpo, Elevar la temperatura interna muscular,<br>Alongar músculos y ligamentos, Aumentar el grado de excitabilidad del sistema nervioso central.<br><br><center><img src = '../Imagenes/fondo.jpg'></center><html>");
+        jLabel20.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
+        jLabel20.setOpaque(true);
+        jScrollPane4.setViewportView(jLabel20);
+
+        javax.swing.GroupLayout jPanel9Layout = new javax.swing.GroupLayout(jPanel9);
+        jPanel9.setLayout(jPanel9Layout);
+        jPanel9Layout.setHorizontalGroup(
+            jPanel9Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addComponent(jScrollPane4, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, 561, Short.MAX_VALUE)
+        );
+        jPanel9Layout.setVerticalGroup(
+            jPanel9Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addComponent(jScrollPane4, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, 337, Short.MAX_VALUE)
+        );
+
+        jTabbedPane4.addTab("Calentamiento Neuromuscular", jPanel9);
+
         javax.swing.GroupLayout HabilidadesFisicasLayout = new javax.swing.GroupLayout(HabilidadesFisicas);
         HabilidadesFisicas.setLayout(HabilidadesFisicasLayout);
         HabilidadesFisicasLayout.setHorizontalGroup(
             HabilidadesFisicasLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 566, Short.MAX_VALUE)
+            .addComponent(jTabbedPane4, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, 566, Short.MAX_VALUE)
         );
         HabilidadesFisicasLayout.setVerticalGroup(
             HabilidadesFisicasLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 365, Short.MAX_VALUE)
+            .addGroup(HabilidadesFisicasLayout.createSequentialGroup()
+                .addComponent(jTabbedPane4, javax.swing.GroupLayout.PREFERRED_SIZE, 365, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(0, 0, Short.MAX_VALUE))
         );
 
         jTabbedPaneMenu.addTab("Habilidades físicas", HabilidadesFisicas);
 
         LanzarAtrapar.setOpaque(false);
 
+        jTabbedPane5.setBackground(new java.awt.Color(255, 255, 255));
+        jTabbedPane5.setOpaque(true);
+        jTabbedPane5.setPreferredSize(new java.awt.Dimension(671, 341));
+
+        jPanel10.setOpaque(false);
+        jPanel10.setPreferredSize(new java.awt.Dimension(671, 341));
+        jPanel10.setLayout(null);
+
+        jLabel21.setFont(new java.awt.Font("Times New Roman", 1, 15)); // NOI18N
+        jLabel21.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel21.setText("LANZAR Y ATRAPAR");
+        jLabel21.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
+        jPanel10.add(jLabel21);
+        jLabel21.setBounds(0, 0, 560, 45);
+
+        jLabel22.setFont(new java.awt.Font("Times New Roman", 0, 15)); // NOI18N
+        jLabel22.setText("<html><justify>Después del calentamiento neuromuscular se procede a iniciar la clase, esta vez utilizando balones de baloncesto y pelotas de tamaño medio, después de formar parejas  se inicia con retos suaves desde pase del balón manteniéndola en el aire, poco a poco aumentando la distancia entre los dos estudiantes, poco después se hacen los mismos retos, esta vez con la pelota más pequeña, para terminar la clase, se realiza una pequeña prueba la cual consistía en pases de pelota (mano izquierda con balón de basquetbol  y mano derecha con la pelota pequeña) manteniendo cierta coordinación y constante movimiento.<html>");
+        jLabel22.setVerticalAlignment(javax.swing.SwingConstants.TOP);
+        jLabel22.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+        jPanel10.add(jLabel22);
+        jLabel22.setBounds(10, 53, 325, 280);
+
+        jLabel23.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
+        jLabel23.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+        jPanel10.add(jLabel23);
+        jLabel23.setBounds(345, 51, 210, 280);
+
+        jTabbedPane5.addTab("Clases", jPanel10);
+
+        jPanel11.setOpaque(false);
+        jPanel11.setPreferredSize(new java.awt.Dimension(671, 341));
+
+        jScrollPane6.setHorizontalScrollBarPolicy(javax.swing.ScrollPaneConstants.HORIZONTAL_SCROLLBAR_NEVER);
+
+        jLabel24.setBackground(new java.awt.Color(255, 255, 255));
+        jLabel24.setFont(new java.awt.Font("Times New Roman", 0, 14)); // NOI18N
+        jLabel24.setText("<html><center><b>Calentamiento Neuromuscular</b></center><justify><br><b>QUE ES?</b><br>es un conjunto de ejercicios ordenados graduados, de todos los músculos y articulaciones cuya<br>finalidad es preparar al organismo para mejor rendimiento. La finalidad del calentamiento es<br>conseguir que nuestro organismo alcance un nivel óptimo de forma paulatina, para que desde el<br>comienzo podamos rendir al máximo en la actividad. Y su finalidad es Entre las finalidades qué se<br>persiguen con la realización del acondicionamiento neuromuscular o calentamiento tenemos las<br>siguientes, Elevar la temperatura general del cuerpo, Elevar la temperatura interna muscular,<br>Alongar músculos y ligamentos, Aumentar el grado de excitabilidad del sistema nervioso central.<br><br><center><img src = '../Imagenes/fondo.jpg'></center><html>");
+        jLabel24.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
+        jLabel24.setOpaque(true);
+        jScrollPane6.setViewportView(jLabel24);
+
+        javax.swing.GroupLayout jPanel11Layout = new javax.swing.GroupLayout(jPanel11);
+        jPanel11.setLayout(jPanel11Layout);
+        jPanel11Layout.setHorizontalGroup(
+            jPanel11Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addComponent(jScrollPane6, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, 561, Short.MAX_VALUE)
+        );
+        jPanel11Layout.setVerticalGroup(
+            jPanel11Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addComponent(jScrollPane6, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, 337, Short.MAX_VALUE)
+        );
+
+        jTabbedPane5.addTab("Calentamiento Neuromuscular", jPanel11);
+
         javax.swing.GroupLayout LanzarAtraparLayout = new javax.swing.GroupLayout(LanzarAtrapar);
         LanzarAtrapar.setLayout(LanzarAtraparLayout);
         LanzarAtraparLayout.setHorizontalGroup(
             LanzarAtraparLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 566, Short.MAX_VALUE)
+            .addComponent(jTabbedPane5, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, 566, Short.MAX_VALUE)
         );
         LanzarAtraparLayout.setVerticalGroup(
             LanzarAtraparLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 365, Short.MAX_VALUE)
+            .addGroup(LanzarAtraparLayout.createSequentialGroup()
+                .addComponent(jTabbedPane5, javax.swing.GroupLayout.PREFERRED_SIZE, 365, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(0, 0, Short.MAX_VALUE))
         );
 
         jTabbedPaneMenu.addTab("Lanzar, Atrapar", LanzarAtrapar);
 
         CapacidadesCondicionales.setOpaque(false);
 
+        jTabbedPane6.setBackground(new java.awt.Color(255, 255, 255));
+        jTabbedPane6.setOpaque(true);
+        jTabbedPane6.setPreferredSize(new java.awt.Dimension(671, 341));
+
+        jPanel12.setOpaque(false);
+        jPanel12.setPreferredSize(new java.awt.Dimension(671, 341));
+        jPanel12.setLayout(null);
+
+        jLabel25.setFont(new java.awt.Font("Times New Roman", 1, 15)); // NOI18N
+        jLabel25.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel25.setText("CAPACIDADES CONDICIONALES");
+        jLabel25.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
+        jPanel12.add(jLabel25);
+        jLabel25.setBounds(0, 0, 560, 45);
+
+        jLabel26.setFont(new java.awt.Font("Times New Roman", 0, 15)); // NOI18N
+        jLabel26.setText("<html><justify>Uno de los fines de ejercitarse a diario es conocer las capacidades del cuerpo, su fuerza nata y su capacidad de mejorarla y pulirla aumentando su control a través de ejercicio, practica y trabajo duro constante para mejorar la calidad de vida manteniendo un cuerpo y mente saludable, sin llegar a ser excesivo, procediendo con la debida cautela para prevenir lesiones que resulten muy grabes para el cuerpo a corto, medio y largo plazo.<html>");
+        jLabel26.setVerticalAlignment(javax.swing.SwingConstants.TOP);
+        jLabel26.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+        jPanel12.add(jLabel26);
+        jLabel26.setBounds(10, 53, 325, 280);
+
+        jLabel27.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
+        jLabel27.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+        jPanel12.add(jLabel27);
+        jLabel27.setBounds(345, 51, 210, 280);
+
+        jTabbedPane6.addTab("Clases", jPanel12);
+
+        jPanel13.setOpaque(false);
+        jPanel13.setPreferredSize(new java.awt.Dimension(671, 341));
+
+        jScrollPane7.setHorizontalScrollBarPolicy(javax.swing.ScrollPaneConstants.HORIZONTAL_SCROLLBAR_NEVER);
+
+        jLabel28.setBackground(new java.awt.Color(255, 255, 255));
+        jLabel28.setFont(new java.awt.Font("Times New Roman", 0, 14)); // NOI18N
+        jLabel28.setText("<html><center><b>Calentamiento Neuromuscular</b></center><justify><br><b>QUE ES?</b><br>es un conjunto de ejercicios ordenados graduados, de todos los músculos y articulaciones cuya<br>finalidad es preparar al organismo para mejor rendimiento. La finalidad del calentamiento es<br>conseguir que nuestro organismo alcance un nivel óptimo de forma paulatina, para que desde el<br>comienzo podamos rendir al máximo en la actividad. Y su finalidad es Entre las finalidades qué se<br>persiguen con la realización del acondicionamiento neuromuscular o calentamiento tenemos las<br>siguientes, Elevar la temperatura general del cuerpo, Elevar la temperatura interna muscular,<br>Alongar músculos y ligamentos, Aumentar el grado de excitabilidad del sistema nervioso central.<br><br><center><img src = '../Imagenes/fondo.jpg'></center><html>");
+        jLabel28.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
+        jLabel28.setOpaque(true);
+        jScrollPane7.setViewportView(jLabel28);
+
+        javax.swing.GroupLayout jPanel13Layout = new javax.swing.GroupLayout(jPanel13);
+        jPanel13.setLayout(jPanel13Layout);
+        jPanel13Layout.setHorizontalGroup(
+            jPanel13Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addComponent(jScrollPane7, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, 561, Short.MAX_VALUE)
+        );
+        jPanel13Layout.setVerticalGroup(
+            jPanel13Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addComponent(jScrollPane7, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, 337, Short.MAX_VALUE)
+        );
+
+        jTabbedPane6.addTab("Calentamiento Neuromuscular", jPanel13);
+
         javax.swing.GroupLayout CapacidadesCondicionalesLayout = new javax.swing.GroupLayout(CapacidadesCondicionales);
         CapacidadesCondicionales.setLayout(CapacidadesCondicionalesLayout);
         CapacidadesCondicionalesLayout.setHorizontalGroup(
             CapacidadesCondicionalesLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 566, Short.MAX_VALUE)
+            .addComponent(jTabbedPane6, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, 566, Short.MAX_VALUE)
         );
         CapacidadesCondicionalesLayout.setVerticalGroup(
             CapacidadesCondicionalesLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 365, Short.MAX_VALUE)
+            .addGroup(CapacidadesCondicionalesLayout.createSequentialGroup()
+                .addComponent(jTabbedPane6, javax.swing.GroupLayout.PREFERRED_SIZE, 365, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(0, 0, Short.MAX_VALUE))
         );
 
         jTabbedPaneMenu.addTab("Capacidades Condicionales", CapacidadesCondicionales);
 
         PrimerParcial.setOpaque(false);
 
+        jTabbedPane7.setBackground(new java.awt.Color(255, 255, 255));
+        jTabbedPane7.setOpaque(true);
+        jTabbedPane7.setPreferredSize(new java.awt.Dimension(671, 341));
+
+        jPanel14.setOpaque(false);
+        jPanel14.setPreferredSize(new java.awt.Dimension(671, 341));
+        jPanel14.setLayout(null);
+
+        jLabel29.setFont(new java.awt.Font("Times New Roman", 1, 15)); // NOI18N
+        jLabel29.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel29.setText("PRIMER PARCIAS : INFORMACION");
+        jLabel29.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
+        jPanel14.add(jLabel29);
+        jLabel29.setBounds(0, 0, 560, 45);
+
+        jLabel30.setFont(new java.awt.Font("Times New Roman", 0, 15)); // NOI18N
+        jLabel30.setText("<html><justify>Debido a la cuarentena obligatoria en respuesta a la pandemia de Covid-19, para evitar aumentar la taza de contagios, se optó por realizar clases virtuales con el uso de herramientas digitales tales como Zoom, Google Hangouts, Google classroom, entre otras, sin embargo, cabe aclarar que el deporte debe ser cosa de todos los días y por eso es recomendable actividad física al menos 30 min al día para mantener un cuerpo y mente sano.<html>");
+        jLabel30.setVerticalAlignment(javax.swing.SwingConstants.TOP);
+        jLabel30.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+        jPanel14.add(jLabel30);
+        jLabel30.setBounds(10, 53, 325, 280);
+
+        jLabel31.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
+        jLabel31.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+        jPanel14.add(jLabel31);
+        jLabel31.setBounds(345, 51, 210, 280);
+
+        jTabbedPane7.addTab("Clases", jPanel14);
+
+        jPanel15.setOpaque(false);
+        jPanel15.setPreferredSize(new java.awt.Dimension(671, 341));
+
+        jScrollPane8.setHorizontalScrollBarPolicy(javax.swing.ScrollPaneConstants.HORIZONTAL_SCROLLBAR_NEVER);
+
+        jLabel32.setBackground(new java.awt.Color(255, 255, 255));
+        jLabel32.setFont(new java.awt.Font("Times New Roman", 0, 14)); // NOI18N
+        jLabel32.setText("<html><center><b>Calentamiento Neuromuscular</b></center><justify><br><b>QUE ES?</b><br>es un conjunto de ejercicios ordenados graduados, de todos los músculos y articulaciones cuya<br>finalidad es preparar al organismo para mejor rendimiento. La finalidad del calentamiento es<br>conseguir que nuestro organismo alcance un nivel óptimo de forma paulatina, para que desde el<br>comienzo podamos rendir al máximo en la actividad. Y su finalidad es Entre las finalidades qué se<br>persiguen con la realización del acondicionamiento neuromuscular o calentamiento tenemos las<br>siguientes, Elevar la temperatura general del cuerpo, Elevar la temperatura interna muscular,<br>Alongar músculos y ligamentos, Aumentar el grado de excitabilidad del sistema nervioso central.<br><br><center><img src = '../Imagenes/fondo.jpg'></center><html>");
+        jLabel32.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
+        jLabel32.setOpaque(true);
+        jScrollPane8.setViewportView(jLabel32);
+
+        javax.swing.GroupLayout jPanel15Layout = new javax.swing.GroupLayout(jPanel15);
+        jPanel15.setLayout(jPanel15Layout);
+        jPanel15Layout.setHorizontalGroup(
+            jPanel15Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addComponent(jScrollPane8, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, 561, Short.MAX_VALUE)
+        );
+        jPanel15Layout.setVerticalGroup(
+            jPanel15Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addComponent(jScrollPane8, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, 337, Short.MAX_VALUE)
+        );
+
+        jTabbedPane7.addTab("Calentamiento Neuromuscular", jPanel15);
+
         javax.swing.GroupLayout PrimerParcialLayout = new javax.swing.GroupLayout(PrimerParcial);
         PrimerParcial.setLayout(PrimerParcialLayout);
         PrimerParcialLayout.setHorizontalGroup(
             PrimerParcialLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 566, Short.MAX_VALUE)
+            .addComponent(jTabbedPane7, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, 566, Short.MAX_VALUE)
         );
         PrimerParcialLayout.setVerticalGroup(
             PrimerParcialLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 365, Short.MAX_VALUE)
+            .addGroup(PrimerParcialLayout.createSequentialGroup()
+                .addComponent(jTabbedPane7, javax.swing.GroupLayout.PREFERRED_SIZE, 365, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(0, 0, Short.MAX_VALUE))
         );
 
         jTabbedPaneMenu.addTab("Primer parcial:Informacion", PrimerParcial);
 
         Desplazamiento.setOpaque(false);
 
+        jTabbedPane8.setBackground(new java.awt.Color(255, 255, 255));
+        jTabbedPane8.setOpaque(true);
+        jTabbedPane8.setPreferredSize(new java.awt.Dimension(671, 341));
+
+        jPanel16.setOpaque(false);
+        jPanel16.setPreferredSize(new java.awt.Dimension(671, 341));
+        jPanel16.setLayout(null);
+
+        jLabel33.setFont(new java.awt.Font("Times New Roman", 1, 15)); // NOI18N
+        jLabel33.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel33.setText("DESPLAZAMIENTO");
+        jLabel33.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
+        jPanel16.add(jLabel33);
+        jLabel33.setBounds(0, 0, 560, 45);
+
+        jLabel34.setFont(new java.awt.Font("Times New Roman", 0, 15)); // NOI18N
+        jLabel34.setText("<html><justify>Como siempre antes que todo, se realiza un calentamiento de 5 a 10 minutos, una vez finalizado, en un espacio abierto o con el suficiente margen para realizar las actividades físicas se empieza con diferentes ejercicios de desplazamiento de un punto a otro aumentando la velocidad gradualmente y tomando descansos cortos entre cada serie de ejercicios, siempre tomando agua cada cierto tiempo, al terminar todo tipo de ejercicio se debe estirar debidamente y realizar un ejercicio leve para evitar dolores al día siguiente.<html>");
+        jLabel34.setVerticalAlignment(javax.swing.SwingConstants.TOP);
+        jLabel34.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+        jPanel16.add(jLabel34);
+        jLabel34.setBounds(10, 53, 325, 280);
+
+        jLabel35.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
+        jLabel35.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+        jPanel16.add(jLabel35);
+        jLabel35.setBounds(345, 51, 210, 280);
+
+        jTabbedPane8.addTab("Clases", jPanel16);
+
+        jPanel17.setOpaque(false);
+        jPanel17.setPreferredSize(new java.awt.Dimension(671, 341));
+
+        jScrollPane9.setHorizontalScrollBarPolicy(javax.swing.ScrollPaneConstants.HORIZONTAL_SCROLLBAR_NEVER);
+
+        jLabel36.setBackground(new java.awt.Color(255, 255, 255));
+        jLabel36.setFont(new java.awt.Font("Times New Roman", 0, 14)); // NOI18N
+        jLabel36.setText("<html><center><b>Calentamiento Neuromuscular</b></center><justify><br><b>QUE ES?</b><br>es un conjunto de ejercicios ordenados graduados, de todos los músculos y articulaciones cuya<br>finalidad es preparar al organismo para mejor rendimiento. La finalidad del calentamiento es<br>conseguir que nuestro organismo alcance un nivel óptimo de forma paulatina, para que desde el<br>comienzo podamos rendir al máximo en la actividad. Y su finalidad es Entre las finalidades qué se<br>persiguen con la realización del acondicionamiento neuromuscular o calentamiento tenemos las<br>siguientes, Elevar la temperatura general del cuerpo, Elevar la temperatura interna muscular,<br>Alongar músculos y ligamentos, Aumentar el grado de excitabilidad del sistema nervioso central.<br><br><center><img src = '../Imagenes/fondo.jpg'></center><html>");
+        jLabel36.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
+        jLabel36.setOpaque(true);
+        jScrollPane9.setViewportView(jLabel36);
+
+        javax.swing.GroupLayout jPanel17Layout = new javax.swing.GroupLayout(jPanel17);
+        jPanel17.setLayout(jPanel17Layout);
+        jPanel17Layout.setHorizontalGroup(
+            jPanel17Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addComponent(jScrollPane9, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, 561, Short.MAX_VALUE)
+        );
+        jPanel17Layout.setVerticalGroup(
+            jPanel17Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addComponent(jScrollPane9, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, 337, Short.MAX_VALUE)
+        );
+
+        jTabbedPane8.addTab("Calentamiento Neuromuscular", jPanel17);
+
         javax.swing.GroupLayout DesplazamientoLayout = new javax.swing.GroupLayout(Desplazamiento);
         Desplazamiento.setLayout(DesplazamientoLayout);
         DesplazamientoLayout.setHorizontalGroup(
             DesplazamientoLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 566, Short.MAX_VALUE)
+            .addComponent(jTabbedPane8, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, 566, Short.MAX_VALUE)
         );
         DesplazamientoLayout.setVerticalGroup(
             DesplazamientoLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 365, Short.MAX_VALUE)
+            .addGroup(DesplazamientoLayout.createSequentialGroup()
+                .addComponent(jTabbedPane8, javax.swing.GroupLayout.PREFERRED_SIZE, 365, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(0, 0, Short.MAX_VALUE))
         );
 
         jTabbedPaneMenu.addTab("Desplazamiento", Desplazamiento);
 
         Coordinacion.setOpaque(false);
 
+        jTabbedPane9.setBackground(new java.awt.Color(255, 255, 255));
+        jTabbedPane9.setOpaque(true);
+        jTabbedPane9.setPreferredSize(new java.awt.Dimension(671, 341));
+
+        jPanel18.setOpaque(false);
+        jPanel18.setPreferredSize(new java.awt.Dimension(671, 341));
+        jPanel18.setLayout(null);
+
+        jLabel37.setFont(new java.awt.Font("Times New Roman", 1, 15)); // NOI18N
+        jLabel37.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel37.setText("COORDINACION");
+        jLabel37.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
+        jPanel18.add(jLabel37);
+        jLabel37.setBounds(0, 0, 560, 45);
+
+        jLabel38.setFont(new java.awt.Font("Times New Roman", 0, 15)); // NOI18N
+        jLabel38.setText("<html><justify>Para esta clase se practica crear figuras geométricas coordinando las manos, con una dificultad gradual, en un inicio haciendo círculos, cuadrados o triángulos para después formar diferentes figuras geométricas con cada mano, para esto se debe tener gran concentración y habilidad.<html>");
+        jLabel38.setVerticalAlignment(javax.swing.SwingConstants.TOP);
+        jLabel38.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+        jPanel18.add(jLabel38);
+        jLabel38.setBounds(10, 53, 325, 280);
+
+        jLabel39.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
+        jLabel39.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+        jPanel18.add(jLabel39);
+        jLabel39.setBounds(345, 51, 210, 280);
+
+        jTabbedPane9.addTab("Clases", jPanel18);
+
+        jPanel19.setOpaque(false);
+        jPanel19.setPreferredSize(new java.awt.Dimension(671, 341));
+
+        jScrollPane10.setHorizontalScrollBarPolicy(javax.swing.ScrollPaneConstants.HORIZONTAL_SCROLLBAR_NEVER);
+
+        jLabel40.setBackground(new java.awt.Color(255, 255, 255));
+        jLabel40.setFont(new java.awt.Font("Times New Roman", 0, 14)); // NOI18N
+        jLabel40.setText("<html><center><b>Calentamiento Neuromuscular</b></center><justify><br><b>QUE ES?</b><br>es un conjunto de ejercicios ordenados graduados, de todos los músculos y articulaciones cuya<br>finalidad es preparar al organismo para mejor rendimiento. La finalidad del calentamiento es<br>conseguir que nuestro organismo alcance un nivel óptimo de forma paulatina, para que desde el<br>comienzo podamos rendir al máximo en la actividad. Y su finalidad es Entre las finalidades qué se<br>persiguen con la realización del acondicionamiento neuromuscular o calentamiento tenemos las<br>siguientes, Elevar la temperatura general del cuerpo, Elevar la temperatura interna muscular,<br>Alongar músculos y ligamentos, Aumentar el grado de excitabilidad del sistema nervioso central.<br><br><center><img src = '../Imagenes/fondo.jpg'></center><html>");
+        jLabel40.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
+        jLabel40.setOpaque(true);
+        jScrollPane10.setViewportView(jLabel40);
+
+        javax.swing.GroupLayout jPanel19Layout = new javax.swing.GroupLayout(jPanel19);
+        jPanel19.setLayout(jPanel19Layout);
+        jPanel19Layout.setHorizontalGroup(
+            jPanel19Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addComponent(jScrollPane10, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, 561, Short.MAX_VALUE)
+        );
+        jPanel19Layout.setVerticalGroup(
+            jPanel19Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addComponent(jScrollPane10, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, 337, Short.MAX_VALUE)
+        );
+
+        jTabbedPane9.addTab("Calentamiento Neuromuscular", jPanel19);
+
         javax.swing.GroupLayout CoordinacionLayout = new javax.swing.GroupLayout(Coordinacion);
         Coordinacion.setLayout(CoordinacionLayout);
         CoordinacionLayout.setHorizontalGroup(
             CoordinacionLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 566, Short.MAX_VALUE)
+            .addComponent(jTabbedPane9, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, 566, Short.MAX_VALUE)
         );
         CoordinacionLayout.setVerticalGroup(
             CoordinacionLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 365, Short.MAX_VALUE)
+            .addGroup(CoordinacionLayout.createSequentialGroup()
+                .addComponent(jTabbedPane9, javax.swing.GroupLayout.PREFERRED_SIZE, 365, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(0, 0, Short.MAX_VALUE))
         );
 
         jTabbedPaneMenu.addTab("Coordinacion", Coordinacion);
 
         SemanaSanta.setOpaque(false);
 
+        jTabbedPane10.setBackground(new java.awt.Color(255, 255, 255));
+        jTabbedPane10.setOpaque(true);
+        jTabbedPane10.setPreferredSize(new java.awt.Dimension(671, 341));
+
+        jPanel21.setOpaque(false);
+        jPanel21.setPreferredSize(new java.awt.Dimension(671, 341));
+        jPanel21.setLayout(null);
+
+        jLabel41.setFont(new java.awt.Font("Times New Roman", 1, 15)); // NOI18N
+        jLabel41.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel41.setText("SEMANA SANTA : INFOMACION");
+        jLabel41.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
+        jPanel21.add(jLabel41);
+        jLabel41.setBounds(0, 0, 560, 45);
+
+        jLabel42.setFont(new java.awt.Font("Times New Roman", 0, 15)); // NOI18N
+        jLabel42.setText("<html><justify>FALTA EDITAR DOCX<html>");
+        jLabel42.setVerticalAlignment(javax.swing.SwingConstants.TOP);
+        jLabel42.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+        jPanel21.add(jLabel42);
+        jLabel42.setBounds(10, 53, 325, 280);
+
+        jLabel43.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
+        jLabel43.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+        jPanel21.add(jLabel43);
+        jLabel43.setBounds(345, 51, 210, 280);
+
+        jTabbedPane10.addTab("Clases", jPanel21);
+
+        jPanel22.setOpaque(false);
+        jPanel22.setPreferredSize(new java.awt.Dimension(671, 341));
+
+        jScrollPane11.setHorizontalScrollBarPolicy(javax.swing.ScrollPaneConstants.HORIZONTAL_SCROLLBAR_NEVER);
+
+        jLabel44.setBackground(new java.awt.Color(255, 255, 255));
+        jLabel44.setFont(new java.awt.Font("Times New Roman", 0, 14)); // NOI18N
+        jLabel44.setText("<html><center><b>Calentamiento Neuromuscular</b></center><justify><br><b>QUE ES?</b><br>es un conjunto de ejercicios ordenados graduados, de todos los músculos y articulaciones cuya<br>finalidad es preparar al organismo para mejor rendimiento. La finalidad del calentamiento es<br>conseguir que nuestro organismo alcance un nivel óptimo de forma paulatina, para que desde el<br>comienzo podamos rendir al máximo en la actividad. Y su finalidad es Entre las finalidades qué se<br>persiguen con la realización del acondicionamiento neuromuscular o calentamiento tenemos las<br>siguientes, Elevar la temperatura general del cuerpo, Elevar la temperatura interna muscular,<br>Alongar músculos y ligamentos, Aumentar el grado de excitabilidad del sistema nervioso central.<br><br><center><img src = '../Imagenes/fondo.jpg'></center><html>");
+        jLabel44.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
+        jLabel44.setOpaque(true);
+        jScrollPane11.setViewportView(jLabel44);
+
+        javax.swing.GroupLayout jPanel22Layout = new javax.swing.GroupLayout(jPanel22);
+        jPanel22.setLayout(jPanel22Layout);
+        jPanel22Layout.setHorizontalGroup(
+            jPanel22Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addComponent(jScrollPane11, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, 561, Short.MAX_VALUE)
+        );
+        jPanel22Layout.setVerticalGroup(
+            jPanel22Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addComponent(jScrollPane11, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, 337, Short.MAX_VALUE)
+        );
+
+        jTabbedPane10.addTab("Calentamiento Neuromuscular", jPanel22);
+
         javax.swing.GroupLayout SemanaSantaLayout = new javax.swing.GroupLayout(SemanaSanta);
         SemanaSanta.setLayout(SemanaSantaLayout);
         SemanaSantaLayout.setHorizontalGroup(
             SemanaSantaLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 566, Short.MAX_VALUE)
+            .addComponent(jTabbedPane10, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, 566, Short.MAX_VALUE)
         );
         SemanaSantaLayout.setVerticalGroup(
             SemanaSantaLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 365, Short.MAX_VALUE)
+            .addGroup(SemanaSantaLayout.createSequentialGroup()
+                .addComponent(jTabbedPane10, javax.swing.GroupLayout.PREFERRED_SIZE, 365, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(0, 0, Short.MAX_VALUE))
         );
 
         jTabbedPaneMenu.addTab("Semana santa : Info", SemanaSanta);
 
         EjerciciosDeBajoImpacto.setOpaque(false);
 
+        jTabbedPane11.setBackground(new java.awt.Color(255, 255, 255));
+        jTabbedPane11.setOpaque(true);
+        jTabbedPane11.setPreferredSize(new java.awt.Dimension(671, 341));
+
+        jPanel23.setOpaque(false);
+        jPanel23.setPreferredSize(new java.awt.Dimension(671, 341));
+        jPanel23.setLayout(null);
+
+        jLabel45.setFont(new java.awt.Font("Times New Roman", 1, 15)); // NOI18N
+        jLabel45.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel45.setText("EJERCICIOS DE BAJO IMPACTO");
+        jLabel45.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
+        jPanel23.add(jLabel45);
+        jLabel45.setBounds(0, 0, 560, 45);
+
+        jLabel46.setFont(new java.awt.Font("Times New Roman", 0, 15)); // NOI18N
+        jLabel46.setText("<html><justify>FALTA EDITAR DOCX.<html>");
+        jLabel46.setVerticalAlignment(javax.swing.SwingConstants.TOP);
+        jLabel46.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+        jPanel23.add(jLabel46);
+        jLabel46.setBounds(10, 53, 325, 280);
+
+        jLabel47.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
+        jLabel47.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+        jPanel23.add(jLabel47);
+        jLabel47.setBounds(345, 51, 210, 280);
+
+        jTabbedPane11.addTab("Clases", jPanel23);
+
+        jPanel24.setOpaque(false);
+        jPanel24.setPreferredSize(new java.awt.Dimension(671, 341));
+
+        jScrollPane12.setHorizontalScrollBarPolicy(javax.swing.ScrollPaneConstants.HORIZONTAL_SCROLLBAR_NEVER);
+
+        jLabel48.setBackground(new java.awt.Color(255, 255, 255));
+        jLabel48.setFont(new java.awt.Font("Times New Roman", 0, 14)); // NOI18N
+        jLabel48.setText("<html><center><b>Calentamiento Neuromuscular</b></center><justify><br><b>QUE ES?</b><br>es un conjunto de ejercicios ordenados graduados, de todos los músculos y articulaciones cuya<br>finalidad es preparar al organismo para mejor rendimiento. La finalidad del calentamiento es<br>conseguir que nuestro organismo alcance un nivel óptimo de forma paulatina, para que desde el<br>comienzo podamos rendir al máximo en la actividad. Y su finalidad es Entre las finalidades qué se<br>persiguen con la realización del acondicionamiento neuromuscular o calentamiento tenemos las<br>siguientes, Elevar la temperatura general del cuerpo, Elevar la temperatura interna muscular,<br>Alongar músculos y ligamentos, Aumentar el grado de excitabilidad del sistema nervioso central.<br><br><center><img src = '../Imagenes/fondo.jpg'></center><html>");
+        jLabel48.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
+        jLabel48.setOpaque(true);
+        jScrollPane12.setViewportView(jLabel48);
+
+        javax.swing.GroupLayout jPanel24Layout = new javax.swing.GroupLayout(jPanel24);
+        jPanel24.setLayout(jPanel24Layout);
+        jPanel24Layout.setHorizontalGroup(
+            jPanel24Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addComponent(jScrollPane12, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, 561, Short.MAX_VALUE)
+        );
+        jPanel24Layout.setVerticalGroup(
+            jPanel24Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addComponent(jScrollPane12, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, 337, Short.MAX_VALUE)
+        );
+
+        jTabbedPane11.addTab("Calentamiento Neuromuscular", jPanel24);
+
         javax.swing.GroupLayout EjerciciosDeBajoImpactoLayout = new javax.swing.GroupLayout(EjerciciosDeBajoImpacto);
         EjerciciosDeBajoImpacto.setLayout(EjerciciosDeBajoImpactoLayout);
         EjerciciosDeBajoImpactoLayout.setHorizontalGroup(
             EjerciciosDeBajoImpactoLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 566, Short.MAX_VALUE)
+            .addComponent(jTabbedPane11, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, 566, Short.MAX_VALUE)
         );
         EjerciciosDeBajoImpactoLayout.setVerticalGroup(
             EjerciciosDeBajoImpactoLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 365, Short.MAX_VALUE)
+            .addGroup(EjerciciosDeBajoImpactoLayout.createSequentialGroup()
+                .addComponent(jTabbedPane11, javax.swing.GroupLayout.PREFERRED_SIZE, 365, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(0, 0, Short.MAX_VALUE))
         );
 
         jTabbedPaneMenu.addTab("Ejercicio de bajo impacto", EjerciciosDeBajoImpacto);
 
         SegundoParcial.setOpaque(false);
 
+        jTabbedPane12.setBackground(new java.awt.Color(255, 255, 255));
+        jTabbedPane12.setOpaque(true);
+        jTabbedPane12.setPreferredSize(new java.awt.Dimension(671, 341));
+
+        jPanel25.setOpaque(false);
+        jPanel25.setPreferredSize(new java.awt.Dimension(671, 341));
+        jPanel25.setLayout(null);
+
+        jLabel49.setFont(new java.awt.Font("Times New Roman", 1, 15)); // NOI18N
+        jLabel49.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel49.setText("SEGUNDO PARCIAL : INFORMACION");
+        jLabel49.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
+        jPanel25.add(jLabel49);
+        jLabel49.setBounds(0, 0, 560, 45);
+
+        jLabel50.setFont(new java.awt.Font("Times New Roman", 0, 15)); // NOI18N
+        jLabel50.setText("<html><justify>Aprovechando los programas de edición de video, además de las plataformas usadas por los docentes para la entrega de material, se creó un video las temáticas trabajadas a lo largo del segundo corte.<html>");
+        jLabel50.setVerticalAlignment(javax.swing.SwingConstants.TOP);
+        jLabel50.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+        jPanel25.add(jLabel50);
+        jLabel50.setBounds(10, 53, 325, 280);
+
+        jLabel51.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
+        jLabel51.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+        jPanel25.add(jLabel51);
+        jLabel51.setBounds(345, 51, 210, 280);
+
+        jTabbedPane12.addTab("Clases", jPanel25);
+
+        jPanel26.setOpaque(false);
+        jPanel26.setPreferredSize(new java.awt.Dimension(671, 341));
+
+        jScrollPane13.setHorizontalScrollBarPolicy(javax.swing.ScrollPaneConstants.HORIZONTAL_SCROLLBAR_NEVER);
+
+        jLabel52.setBackground(new java.awt.Color(255, 255, 255));
+        jLabel52.setFont(new java.awt.Font("Times New Roman", 0, 14)); // NOI18N
+        jLabel52.setText("<html><center><b>Calentamiento Neuromuscular</b></center><justify><br><b>QUE ES?</b><br>es un conjunto de ejercicios ordenados graduados, de todos los músculos y articulaciones cuya<br>finalidad es preparar al organismo para mejor rendimiento. La finalidad del calentamiento es<br>conseguir que nuestro organismo alcance un nivel óptimo de forma paulatina, para que desde el<br>comienzo podamos rendir al máximo en la actividad. Y su finalidad es Entre las finalidades qué se<br>persiguen con la realización del acondicionamiento neuromuscular o calentamiento tenemos las<br>siguientes, Elevar la temperatura general del cuerpo, Elevar la temperatura interna muscular,<br>Alongar músculos y ligamentos, Aumentar el grado de excitabilidad del sistema nervioso central.<br><br><center><img src = '../Imagenes/fondo.jpg'></center><html>");
+        jLabel52.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
+        jLabel52.setOpaque(true);
+        jScrollPane13.setViewportView(jLabel52);
+
+        javax.swing.GroupLayout jPanel26Layout = new javax.swing.GroupLayout(jPanel26);
+        jPanel26.setLayout(jPanel26Layout);
+        jPanel26Layout.setHorizontalGroup(
+            jPanel26Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addComponent(jScrollPane13, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, 561, Short.MAX_VALUE)
+        );
+        jPanel26Layout.setVerticalGroup(
+            jPanel26Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addComponent(jScrollPane13, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, 337, Short.MAX_VALUE)
+        );
+
+        jTabbedPane12.addTab("Calentamiento Neuromuscular", jPanel26);
+
         javax.swing.GroupLayout SegundoParcialLayout = new javax.swing.GroupLayout(SegundoParcial);
         SegundoParcial.setLayout(SegundoParcialLayout);
         SegundoParcialLayout.setHorizontalGroup(
             SegundoParcialLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 566, Short.MAX_VALUE)
+            .addComponent(jTabbedPane12, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, 566, Short.MAX_VALUE)
         );
         SegundoParcialLayout.setVerticalGroup(
             SegundoParcialLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 365, Short.MAX_VALUE)
+            .addGroup(SegundoParcialLayout.createSequentialGroup()
+                .addComponent(jTabbedPane12, javax.swing.GroupLayout.PREFERRED_SIZE, 365, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(0, 0, Short.MAX_VALUE))
         );
 
         jTabbedPaneMenu.addTab("Segundo parcial:Informacion", SegundoParcial);
 
         CompetenciaAtletica.setOpaque(false);
 
+        jTabbedPane13.setBackground(new java.awt.Color(255, 255, 255));
+        jTabbedPane13.setOpaque(true);
+        jTabbedPane13.setPreferredSize(new java.awt.Dimension(671, 341));
+
+        jPanel27.setOpaque(false);
+        jPanel27.setPreferredSize(new java.awt.Dimension(671, 341));
+        jPanel27.setLayout(null);
+
+        jLabel53.setFont(new java.awt.Font("Times New Roman", 1, 15)); // NOI18N
+        jLabel53.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel53.setText("COMPETENCIA ATLETICA");
+        jLabel53.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
+        jPanel27.add(jLabel53);
+        jLabel53.setBounds(0, 0, 560, 45);
+
+        jLabel54.setFont(new java.awt.Font("Times New Roman", 0, 15)); // NOI18N
+        jLabel54.setText("<html><justify>En esta clase se realizaron diferentes actividades físicas, que ejercitan los diversos músculos del cuerpo en general aprovechando el ambiente de trabajo, lo que permite oxigenar la irrigación sanguínea a lo largo de todo el organismo particularmente del sistema muscular. A este tipo de ejercicio se le suele llamar “Calentamiento Neuromuscular”..<html>");
+        jLabel54.setVerticalAlignment(javax.swing.SwingConstants.TOP);
+        jLabel54.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+        jPanel27.add(jLabel54);
+        jLabel54.setBounds(10, 53, 325, 280);
+
+        jLabel55.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
+        jLabel55.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+        jPanel27.add(jLabel55);
+        jLabel55.setBounds(345, 51, 210, 280);
+
+        jTabbedPane13.addTab("Clases", jPanel27);
+
+        jPanel28.setOpaque(false);
+        jPanel28.setPreferredSize(new java.awt.Dimension(671, 341));
+
+        jScrollPane14.setHorizontalScrollBarPolicy(javax.swing.ScrollPaneConstants.HORIZONTAL_SCROLLBAR_NEVER);
+
+        jLabel56.setBackground(new java.awt.Color(255, 255, 255));
+        jLabel56.setFont(new java.awt.Font("Times New Roman", 0, 14)); // NOI18N
+        jLabel56.setText("<html><center><b>Calentamiento Neuromuscular</b></center><justify><br><b>QUE ES?</b><br>es un conjunto de ejercicios ordenados graduados, de todos los músculos y articulaciones cuya<br>finalidad es preparar al organismo para mejor rendimiento. La finalidad del calentamiento es<br>conseguir que nuestro organismo alcance un nivel óptimo de forma paulatina, para que desde el<br>comienzo podamos rendir al máximo en la actividad. Y su finalidad es Entre las finalidades qué se<br>persiguen con la realización del acondicionamiento neuromuscular o calentamiento tenemos las<br>siguientes, Elevar la temperatura general del cuerpo, Elevar la temperatura interna muscular,<br>Alongar músculos y ligamentos, Aumentar el grado de excitabilidad del sistema nervioso central.<br><br><center><img src = '../Imagenes/fondo.jpg'></center><html>");
+        jLabel56.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
+        jLabel56.setOpaque(true);
+        jScrollPane14.setViewportView(jLabel56);
+
+        javax.swing.GroupLayout jPanel28Layout = new javax.swing.GroupLayout(jPanel28);
+        jPanel28.setLayout(jPanel28Layout);
+        jPanel28Layout.setHorizontalGroup(
+            jPanel28Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addComponent(jScrollPane14, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, 561, Short.MAX_VALUE)
+        );
+        jPanel28Layout.setVerticalGroup(
+            jPanel28Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addComponent(jScrollPane14, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, 337, Short.MAX_VALUE)
+        );
+
+        jTabbedPane13.addTab("Calentamiento Neuromuscular", jPanel28);
+
         javax.swing.GroupLayout CompetenciaAtleticaLayout = new javax.swing.GroupLayout(CompetenciaAtletica);
         CompetenciaAtletica.setLayout(CompetenciaAtleticaLayout);
         CompetenciaAtleticaLayout.setHorizontalGroup(
             CompetenciaAtleticaLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 566, Short.MAX_VALUE)
+            .addComponent(jTabbedPane13, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, 566, Short.MAX_VALUE)
         );
         CompetenciaAtleticaLayout.setVerticalGroup(
             CompetenciaAtleticaLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 365, Short.MAX_VALUE)
+            .addGroup(CompetenciaAtleticaLayout.createSequentialGroup()
+                .addComponent(jTabbedPane13, javax.swing.GroupLayout.PREFERRED_SIZE, 365, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(0, 0, Short.MAX_VALUE))
         );
 
         jTabbedPaneMenu.addTab("Competencia Atlética ", CompetenciaAtletica);
 
         ElJuego.setOpaque(false);
 
+        jTabbedPane14.setBackground(new java.awt.Color(255, 255, 255));
+        jTabbedPane14.setOpaque(true);
+        jTabbedPane14.setPreferredSize(new java.awt.Dimension(671, 341));
+
+        jPanel29.setOpaque(false);
+        jPanel29.setPreferredSize(new java.awt.Dimension(671, 341));
+        jPanel29.setLayout(null);
+
+        jLabel57.setFont(new java.awt.Font("Times New Roman", 1, 15)); // NOI18N
+        jLabel57.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel57.setText("EL JUEGO");
+        jLabel57.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
+        jPanel29.add(jLabel57);
+        jLabel57.setBounds(0, 0, 560, 45);
+
+        jLabel58.setFont(new java.awt.Font("Times New Roman", 0, 15)); // NOI18N
+        jLabel58.setText("<html><justify>Los juegos son importantes en la infancia pues permiten ejercitar de una manera divertida mientras da momentos de interacción con otros, eso no quiere decir que sea solo para niños, entre jóvenes también aplica al jugar un partido o hacer pases rápidos con un balón o simplemente hacer bailes o acciones coordinadas a modo de reto, son juegos que permiten desarrollar el trabajo en equipo y ayuda a interactuar y unir a las personas.<html>");
+        jLabel58.setVerticalAlignment(javax.swing.SwingConstants.TOP);
+        jLabel58.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+        jPanel29.add(jLabel58);
+        jLabel58.setBounds(10, 53, 325, 280);
+
+        jLabel59.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
+        jLabel59.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+        jPanel29.add(jLabel59);
+        jLabel59.setBounds(345, 51, 210, 280);
+
+        jTabbedPane14.addTab("Clases", jPanel29);
+
+        jPanel30.setOpaque(false);
+        jPanel30.setPreferredSize(new java.awt.Dimension(671, 341));
+
+        jScrollPane15.setHorizontalScrollBarPolicy(javax.swing.ScrollPaneConstants.HORIZONTAL_SCROLLBAR_NEVER);
+
+        jLabel60.setBackground(new java.awt.Color(255, 255, 255));
+        jLabel60.setFont(new java.awt.Font("Times New Roman", 0, 14)); // NOI18N
+        jLabel60.setText("<html><center><b>Calentamiento Neuromuscular</b></center><justify><br><b>QUE ES?</b><br>es un conjunto de ejercicios ordenados graduados, de todos los músculos y articulaciones cuya<br>finalidad es preparar al organismo para mejor rendimiento. La finalidad del calentamiento es<br>conseguir que nuestro organismo alcance un nivel óptimo de forma paulatina, para que desde el<br>comienzo podamos rendir al máximo en la actividad. Y su finalidad es Entre las finalidades qué se<br>persiguen con la realización del acondicionamiento neuromuscular o calentamiento tenemos las<br>siguientes, Elevar la temperatura general del cuerpo, Elevar la temperatura interna muscular,<br>Alongar músculos y ligamentos, Aumentar el grado de excitabilidad del sistema nervioso central.<br><br><center><img src = '../Imagenes/fondo.jpg'></center><html>");
+        jLabel60.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
+        jLabel60.setOpaque(true);
+        jScrollPane15.setViewportView(jLabel60);
+
+        javax.swing.GroupLayout jPanel30Layout = new javax.swing.GroupLayout(jPanel30);
+        jPanel30.setLayout(jPanel30Layout);
+        jPanel30Layout.setHorizontalGroup(
+            jPanel30Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addComponent(jScrollPane15, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, 561, Short.MAX_VALUE)
+        );
+        jPanel30Layout.setVerticalGroup(
+            jPanel30Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addComponent(jScrollPane15, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, 337, Short.MAX_VALUE)
+        );
+
+        jTabbedPane14.addTab("Calentamiento Neuromuscular", jPanel30);
+
         javax.swing.GroupLayout ElJuegoLayout = new javax.swing.GroupLayout(ElJuego);
         ElJuego.setLayout(ElJuegoLayout);
         ElJuegoLayout.setHorizontalGroup(
             ElJuegoLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 566, Short.MAX_VALUE)
+            .addComponent(jTabbedPane14, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, 566, Short.MAX_VALUE)
         );
         ElJuegoLayout.setVerticalGroup(
             ElJuegoLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 365, Short.MAX_VALUE)
+            .addGroup(ElJuegoLayout.createSequentialGroup()
+                .addComponent(jTabbedPane14, javax.swing.GroupLayout.PREFERRED_SIZE, 365, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(0, 0, Short.MAX_VALUE))
         );
 
         jTabbedPaneMenu.addTab("El juego", ElJuego);
 
         Velocidad.setOpaque(false);
 
+        jTabbedPane15.setBackground(new java.awt.Color(255, 255, 255));
+        jTabbedPane15.setOpaque(true);
+        jTabbedPane15.setPreferredSize(new java.awt.Dimension(671, 341));
+
+        jPanel31.setOpaque(false);
+        jPanel31.setPreferredSize(new java.awt.Dimension(671, 341));
+        jPanel31.setLayout(null);
+
+        jLabel61.setFont(new java.awt.Font("Times New Roman", 1, 15)); // NOI18N
+        jLabel61.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel61.setText("VELOCIDAD, FUERZA Y RECISTENCIA");
+        jLabel61.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
+        jPanel31.add(jLabel61);
+        jLabel61.setBounds(0, 0, 560, 45);
+
+        jLabel62.setFont(new java.awt.Font("Times New Roman", 0, 15)); // NOI18N
+        jLabel62.setText("<html><justify>FALTA EDITAR EL DOCX<html>");
+        jLabel62.setVerticalAlignment(javax.swing.SwingConstants.TOP);
+        jLabel62.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+        jPanel31.add(jLabel62);
+        jLabel62.setBounds(10, 53, 325, 280);
+
+        jLabel63.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
+        jLabel63.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+        jPanel31.add(jLabel63);
+        jLabel63.setBounds(345, 51, 210, 280);
+
+        jTabbedPane15.addTab("Clases", jPanel31);
+
+        jPanel32.setOpaque(false);
+        jPanel32.setPreferredSize(new java.awt.Dimension(671, 341));
+
+        jScrollPane16.setHorizontalScrollBarPolicy(javax.swing.ScrollPaneConstants.HORIZONTAL_SCROLLBAR_NEVER);
+
+        jLabel64.setBackground(new java.awt.Color(255, 255, 255));
+        jLabel64.setFont(new java.awt.Font("Times New Roman", 0, 14)); // NOI18N
+        jLabel64.setText("<html><center><b>Calentamiento Neuromuscular</b></center><justify><br><b>QUE ES?</b><br>es un conjunto de ejercicios ordenados graduados, de todos los músculos y articulaciones cuya<br>finalidad es preparar al organismo para mejor rendimiento. La finalidad del calentamiento es<br>conseguir que nuestro organismo alcance un nivel óptimo de forma paulatina, para que desde el<br>comienzo podamos rendir al máximo en la actividad. Y su finalidad es Entre las finalidades qué se<br>persiguen con la realización del acondicionamiento neuromuscular o calentamiento tenemos las<br>siguientes, Elevar la temperatura general del cuerpo, Elevar la temperatura interna muscular,<br>Alongar músculos y ligamentos, Aumentar el grado de excitabilidad del sistema nervioso central.<br><br><center><img src = '../Imagenes/fondo.jpg'></center><html>");
+        jLabel64.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
+        jLabel64.setOpaque(true);
+        jScrollPane16.setViewportView(jLabel64);
+
+        javax.swing.GroupLayout jPanel32Layout = new javax.swing.GroupLayout(jPanel32);
+        jPanel32.setLayout(jPanel32Layout);
+        jPanel32Layout.setHorizontalGroup(
+            jPanel32Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addComponent(jScrollPane16, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, 561, Short.MAX_VALUE)
+        );
+        jPanel32Layout.setVerticalGroup(
+            jPanel32Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addComponent(jScrollPane16, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, 337, Short.MAX_VALUE)
+        );
+
+        jTabbedPane15.addTab("Calentamiento Neuromuscular", jPanel32);
+
         javax.swing.GroupLayout VelocidadLayout = new javax.swing.GroupLayout(Velocidad);
         Velocidad.setLayout(VelocidadLayout);
         VelocidadLayout.setHorizontalGroup(
             VelocidadLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 566, Short.MAX_VALUE)
+            .addComponent(jTabbedPane15, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, 566, Short.MAX_VALUE)
         );
         VelocidadLayout.setVerticalGroup(
             VelocidadLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 365, Short.MAX_VALUE)
+            .addGroup(VelocidadLayout.createSequentialGroup()
+                .addComponent(jTabbedPane15, javax.swing.GroupLayout.PREFERRED_SIZE, 365, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(0, 0, Short.MAX_VALUE))
         );
 
         jTabbedPaneMenu.addTab("Velocidad, Fuerza, Resistencia", Velocidad);
@@ -500,14 +1280,6 @@ public class Front extends javax.swing.JFrame {
         jPanel1.add(jLabel6);
         jLabel6.setBounds(-10, -20, 770, 470);
 
-        jMenu1.setText("File");
-        jMenuBar1.add(jMenu1);
-
-        jMenu2.setText("Edit");
-        jMenuBar1.add(jMenu2);
-
-        setJMenuBar(jMenuBar1);
-
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
         layout.setHorizontalGroup(
@@ -517,7 +1289,7 @@ public class Front extends javax.swing.JFrame {
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
-                .addComponent(jPanel1, javax.swing.GroupLayout.DEFAULT_SIZE, 441, Short.MAX_VALUE)
+                .addComponent(jPanel1, javax.swing.GroupLayout.DEFAULT_SIZE, 451, Short.MAX_VALUE)
                 .addGap(0, 0, 0))
         );
 
@@ -582,29 +1354,124 @@ public class Front extends javax.swing.JFrame {
     private javax.swing.JLabel jLabel12;
     private javax.swing.JLabel jLabel13;
     private javax.swing.JLabel jLabel14;
+    private javax.swing.JLabel jLabel15;
+    private javax.swing.JLabel jLabel16;
     private javax.swing.JLabel jLabel17;
+    private javax.swing.JLabel jLabel18;
+    private javax.swing.JLabel jLabel19;
     private javax.swing.JLabel jLabel2;
+    private javax.swing.JLabel jLabel20;
+    private javax.swing.JLabel jLabel21;
+    private javax.swing.JLabel jLabel22;
+    private javax.swing.JLabel jLabel23;
+    private javax.swing.JLabel jLabel24;
+    private javax.swing.JLabel jLabel25;
+    private javax.swing.JLabel jLabel26;
+    private javax.swing.JLabel jLabel27;
+    private javax.swing.JLabel jLabel28;
+    private javax.swing.JLabel jLabel29;
     private javax.swing.JLabel jLabel3;
+    private javax.swing.JLabel jLabel30;
+    private javax.swing.JLabel jLabel31;
+    private javax.swing.JLabel jLabel32;
+    private javax.swing.JLabel jLabel33;
+    private javax.swing.JLabel jLabel34;
+    private javax.swing.JLabel jLabel35;
+    private javax.swing.JLabel jLabel36;
+    private javax.swing.JLabel jLabel37;
+    private javax.swing.JLabel jLabel38;
+    private javax.swing.JLabel jLabel39;
     private javax.swing.JLabel jLabel4;
+    private javax.swing.JLabel jLabel40;
+    private javax.swing.JLabel jLabel41;
+    private javax.swing.JLabel jLabel42;
+    private javax.swing.JLabel jLabel43;
+    private javax.swing.JLabel jLabel44;
+    private javax.swing.JLabel jLabel45;
+    private javax.swing.JLabel jLabel46;
+    private javax.swing.JLabel jLabel47;
+    private javax.swing.JLabel jLabel48;
+    private javax.swing.JLabel jLabel49;
     private javax.swing.JLabel jLabel5;
+    private javax.swing.JLabel jLabel50;
+    private javax.swing.JLabel jLabel51;
+    private javax.swing.JLabel jLabel52;
+    private javax.swing.JLabel jLabel53;
+    private javax.swing.JLabel jLabel54;
+    private javax.swing.JLabel jLabel55;
+    private javax.swing.JLabel jLabel56;
+    private javax.swing.JLabel jLabel57;
+    private javax.swing.JLabel jLabel58;
+    private javax.swing.JLabel jLabel59;
     private javax.swing.JLabel jLabel6;
+    private javax.swing.JLabel jLabel60;
+    private javax.swing.JLabel jLabel61;
+    private javax.swing.JLabel jLabel62;
+    private javax.swing.JLabel jLabel63;
+    private javax.swing.JLabel jLabel64;
     private javax.swing.JLabel jLabel7;
     private javax.swing.JLabel jLabel8;
     private javax.swing.JLabel jLabel9;
-    private javax.swing.JMenu jMenu1;
-    private javax.swing.JMenu jMenu2;
-    private javax.swing.JMenuBar jMenuBar1;
     private javax.swing.JPanel jPanel1;
+    private javax.swing.JPanel jPanel10;
+    private javax.swing.JPanel jPanel11;
+    private javax.swing.JPanel jPanel12;
+    private javax.swing.JPanel jPanel13;
+    private javax.swing.JPanel jPanel14;
+    private javax.swing.JPanel jPanel15;
+    private javax.swing.JPanel jPanel16;
+    private javax.swing.JPanel jPanel17;
+    private javax.swing.JPanel jPanel18;
+    private javax.swing.JPanel jPanel19;
     private javax.swing.JPanel jPanel20;
+    private javax.swing.JPanel jPanel21;
+    private javax.swing.JPanel jPanel22;
+    private javax.swing.JPanel jPanel23;
+    private javax.swing.JPanel jPanel24;
+    private javax.swing.JPanel jPanel25;
+    private javax.swing.JPanel jPanel26;
+    private javax.swing.JPanel jPanel27;
+    private javax.swing.JPanel jPanel28;
+    private javax.swing.JPanel jPanel29;
+    private javax.swing.JPanel jPanel30;
+    private javax.swing.JPanel jPanel31;
+    private javax.swing.JPanel jPanel32;
     private javax.swing.JPanel jPanel4;
     private javax.swing.JPanel jPanel5;
     private javax.swing.JPanel jPanel6;
     private javax.swing.JPanel jPanel7;
+    private javax.swing.JPanel jPanel8;
+    private javax.swing.JPanel jPanel9;
     private javax.swing.JScrollPane jScrollPane1;
+    private javax.swing.JScrollPane jScrollPane10;
+    private javax.swing.JScrollPane jScrollPane11;
+    private javax.swing.JScrollPane jScrollPane12;
+    private javax.swing.JScrollPane jScrollPane13;
+    private javax.swing.JScrollPane jScrollPane14;
+    private javax.swing.JScrollPane jScrollPane15;
+    private javax.swing.JScrollPane jScrollPane16;
     private javax.swing.JScrollPane jScrollPane2;
     private javax.swing.JScrollPane jScrollPane3;
+    private javax.swing.JScrollPane jScrollPane4;
+    private javax.swing.JScrollPane jScrollPane5;
+    private javax.swing.JScrollPane jScrollPane6;
+    private javax.swing.JScrollPane jScrollPane7;
+    private javax.swing.JScrollPane jScrollPane8;
+    private javax.swing.JScrollPane jScrollPane9;
+    private javax.swing.JTabbedPane jTabbedPane10;
+    private javax.swing.JTabbedPane jTabbedPane11;
+    private javax.swing.JTabbedPane jTabbedPane12;
+    private javax.swing.JTabbedPane jTabbedPane13;
+    private javax.swing.JTabbedPane jTabbedPane14;
+    private javax.swing.JTabbedPane jTabbedPane15;
     private javax.swing.JTabbedPane jTabbedPane2;
     private javax.swing.JTabbedPane jTabbedPane3;
+    private javax.swing.JTabbedPane jTabbedPane4;
+    private javax.swing.JTabbedPane jTabbedPane5;
+    private javax.swing.JTabbedPane jTabbedPane6;
+    private javax.swing.JTabbedPane jTabbedPane7;
+    private javax.swing.JTabbedPane jTabbedPane8;
+    private javax.swing.JTabbedPane jTabbedPane9;
     private javax.swing.JTabbedPane jTabbedPaneMenu;
     // End of variables declaration//GEN-END:variables
 }
