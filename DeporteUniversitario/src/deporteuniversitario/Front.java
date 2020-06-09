@@ -46,7 +46,19 @@ public class Front extends javax.swing.JFrame {
         jLabel2 = new javax.swing.JLabel();
         jLabel3 = new javax.swing.JLabel();
         jPanel5 = new javax.swing.JPanel();
+        jLabel9 = new javax.swing.JLabel();
+        jLabel10 = new javax.swing.JLabel();
+        jScrollPane2 = new javax.swing.JScrollPane();
+        jLabel11 = new javax.swing.JLabel();
         EsquemaCorporal = new javax.swing.JPanel();
+        jTabbedPane3 = new javax.swing.JTabbedPane();
+        jPanel6 = new javax.swing.JPanel();
+        jLabel12 = new javax.swing.JLabel();
+        jLabel13 = new javax.swing.JLabel();
+        jLabel14 = new javax.swing.JLabel();
+        jPanel7 = new javax.swing.JPanel();
+        jScrollPane3 = new javax.swing.JScrollPane();
+        jLabel17 = new javax.swing.JLabel();
         HabilidadesFisicas = new javax.swing.JPanel();
         LanzarAtrapar = new javax.swing.JPanel();
         CapacidadesCondicionales = new javax.swing.JPanel();
@@ -94,7 +106,7 @@ public class Front extends javax.swing.JFrame {
         jTabbedPaneMenu.setTabLayoutPolicy(javax.swing.JTabbedPane.SCROLL_TAB_LAYOUT);
         jTabbedPaneMenu.setTabPlacement(javax.swing.JTabbedPane.LEFT);
         jTabbedPaneMenu.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
-        jTabbedPaneMenu.setFont(new java.awt.Font("Times New Roman", 0, 12)); // NOI18N
+        jTabbedPaneMenu.setFont(new java.awt.Font("Times New Roman", 1, 12)); // NOI18N
         jTabbedPaneMenu.setPreferredSize(new java.awt.Dimension(671, 341));
 
         EstrategiaDidactica.setOpaque(false);
@@ -109,7 +121,7 @@ public class Front extends javax.swing.JFrame {
         EstrategiaDidactica.setLayout(EstrategiaDidacticaLayout);
         EstrategiaDidacticaLayout.setHorizontalGroup(
             EstrategiaDidacticaLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addComponent(jScrollPane1, javax.swing.GroupLayout.DEFAULT_SIZE, 570, Short.MAX_VALUE)
+            .addComponent(jScrollPane1, javax.swing.GroupLayout.DEFAULT_SIZE, 566, Short.MAX_VALUE)
         );
         EstrategiaDidacticaLayout.setVerticalGroup(
             EstrategiaDidacticaLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -124,7 +136,7 @@ public class Front extends javax.swing.JFrame {
         jPanel20.setLayout(jPanel20Layout);
         jPanel20Layout.setHorizontalGroup(
             jPanel20Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 570, Short.MAX_VALUE)
+            .addGap(0, 566, Short.MAX_VALUE)
         );
         jPanel20Layout.setVerticalGroup(
             jPanel20Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -135,66 +147,82 @@ public class Front extends javax.swing.JFrame {
 
         Presentacion.setPreferredSize(new java.awt.Dimension(671, 341));
 
+        jTabbedPane2.setBackground(new java.awt.Color(255, 255, 255));
+        jTabbedPane2.setOpaque(true);
         jTabbedPane2.setPreferredSize(new java.awt.Dimension(671, 341));
 
         jPanel4.setOpaque(false);
         jPanel4.setPreferredSize(new java.awt.Dimension(671, 341));
+        jPanel4.setLayout(null);
 
         jLabel1.setFont(new java.awt.Font("Times New Roman", 1, 15)); // NOI18N
         jLabel1.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel1.setText("INCORPORACION AL PROGRAMA DE DEPORTE UNIVERSITARIO");
         jLabel1.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
+        jPanel4.add(jLabel1);
+        jLabel1.setBounds(0, 0, 560, 45);
 
-        jLabel2.setFont(new java.awt.Font("Times New Roman", 0, 18)); // NOI18N
+        jLabel2.setFont(new java.awt.Font("Times New Roman", 0, 15)); // NOI18N
         jLabel2.setText("<html>En esta primera clase se dio a conocer a los directivos y también a los compañeros con los cuales se compartirá la clase, poco después se empieza a discutir las posibles temáticas a trabajar como deporte universitario por el resto del semestre, después de un pequeño debate se decidió que la materia seria “Gimnasia de Mantenimiento”.<html>");
         jLabel2.setVerticalAlignment(javax.swing.SwingConstants.TOP);
         jLabel2.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+        jPanel4.add(jLabel2);
+        jLabel2.setBounds(10, 63, 325, 290);
 
         jLabel3.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Imagenes/Proyect_Deporte.gif"))); // NOI18N
         jLabel3.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
         jLabel3.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+        jPanel4.add(jLabel3);
+        jLabel3.setBounds(345, 51, 206, 294);
 
-        javax.swing.GroupLayout jPanel4Layout = new javax.swing.GroupLayout(jPanel4);
-        jPanel4.setLayout(jPanel4Layout);
-        jPanel4Layout.setHorizontalGroup(
-            jPanel4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addComponent(jLabel1, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-            .addGroup(jPanel4Layout.createSequentialGroup()
-                .addContainerGap()
-                .addComponent(jLabel2, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
-                .addComponent(jLabel3)
-                .addContainerGap())
-        );
-        jPanel4Layout.setVerticalGroup(
-            jPanel4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(jPanel4Layout.createSequentialGroup()
-                .addComponent(jLabel1, javax.swing.GroupLayout.PREFERRED_SIZE, 45, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addGroup(jPanel4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addGroup(jPanel4Layout.createSequentialGroup()
-                        .addGap(18, 18, 18)
-                        .addComponent(jLabel2, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
-                    .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel4Layout.createSequentialGroup()
-                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                        .addComponent(jLabel3, javax.swing.GroupLayout.PREFERRED_SIZE, 294, javax.swing.GroupLayout.PREFERRED_SIZE)
-                        .addGap(8, 8, 8)))
-                .addContainerGap())
-        );
-
-        jTabbedPane2.addTab("Desarrollo Tematico", jPanel4);
+        jTabbedPane2.addTab("Clases", jPanel4);
 
         jPanel5.setOpaque(false);
         jPanel5.setPreferredSize(new java.awt.Dimension(671, 341));
+
+        jLabel9.setFont(new java.awt.Font("Times New Roman", 1, 13)); // NOI18N
+        jLabel9.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel9.setText("<html><center>ELECTIVA RECREATIVA<br>DOCENTE<br>LUIS GABRIEL RODRIGUEZ PINZA<html>");
+
+        jLabel10.setBackground(new java.awt.Color(0, 0, 0));
+        jLabel10.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel10.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Imagenes/Docente.jpg"))); // NOI18N
+        jLabel10.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
+        jLabel10.setOpaque(true);
+
+        jScrollPane2.setHorizontalScrollBarPolicy(javax.swing.ScrollPaneConstants.HORIZONTAL_SCROLLBAR_NEVER);
+
+        jLabel11.setBackground(new java.awt.Color(255, 255, 255));
+        jLabel11.setFont(new java.awt.Font("Times New Roman", 0, 14)); // NOI18N
+        jLabel11.setText("<html><center><b>ESPACIO ACADÉMICO</b></center><justify><br>El Deporte Universitario es una actividad que complementa la<br>formación de los estudiantes de la Educación Superior, teniendo como<br>factor básico la integralidad de la persona. Desde la Gimnasia de<br>Mantenimiento el estudiante obtiene beneficios en diferentes<br>dimensiones entre las cuales está: mejorar sus características físicas<br>generales, mejorar la capacidad de respuesta fisiológica del<br>organismo y favorecer la interacción con sus semejantes frente a las<br>acciones propias de la actividad, donde prevalecen los principios y la<br>formación de los valores.<br>Es además un espacio para crear en el estudiante una opción que lo<br>motive a acoger estilos de vida saludables, dando así cumplimiento al<br>aspecto misional de la Institución.<br>Estimular al estudiante a la práctica de la actividad física, fortaleciendo<br>los valores,la conservación de la salud y mejora de la calidad de vida, a<br>través de la Gimnasia de Mantenimiento.<html>");
+        jLabel11.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
+        jLabel11.setOpaque(true);
+        jScrollPane2.setViewportView(jLabel11);
 
         javax.swing.GroupLayout jPanel5Layout = new javax.swing.GroupLayout(jPanel5);
         jPanel5.setLayout(jPanel5Layout);
         jPanel5Layout.setHorizontalGroup(
             jPanel5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 565, Short.MAX_VALUE)
+            .addGroup(jPanel5Layout.createSequentialGroup()
+                .addGap(172, 172, 172)
+                .addComponent(jLabel9, javax.swing.GroupLayout.PREFERRED_SIZE, 210, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addContainerGap(179, Short.MAX_VALUE))
+            .addGroup(jPanel5Layout.createSequentialGroup()
+                .addContainerGap()
+                .addComponent(jLabel10, javax.swing.GroupLayout.PREFERRED_SIZE, 118, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                .addComponent(jScrollPane2))
         );
         jPanel5Layout.setVerticalGroup(
             jPanel5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 337, Short.MAX_VALUE)
+            .addGroup(jPanel5Layout.createSequentialGroup()
+                .addComponent(jLabel9, javax.swing.GroupLayout.PREFERRED_SIZE, 51, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                .addGroup(jPanel5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addGroup(jPanel5Layout.createSequentialGroup()
+                        .addComponent(jLabel10, javax.swing.GroupLayout.PREFERRED_SIZE, 148, javax.swing.GroupLayout.PREFERRED_SIZE)
+                        .addContainerGap(132, Short.MAX_VALUE))
+                    .addComponent(jScrollPane2)))
         );
 
         jTabbedPane2.addTab("Descripcion de clases", jPanel5);
@@ -203,7 +231,7 @@ public class Front extends javax.swing.JFrame {
         Presentacion.setLayout(PresentacionLayout);
         PresentacionLayout.setHorizontalGroup(
             PresentacionLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addComponent(jTabbedPane2, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, 570, Short.MAX_VALUE)
+            .addComponent(jTabbedPane2, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, 566, Short.MAX_VALUE)
         );
         PresentacionLayout.setVerticalGroup(
             PresentacionLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -216,15 +244,71 @@ public class Front extends javax.swing.JFrame {
 
         EsquemaCorporal.setOpaque(false);
 
+        jTabbedPane3.setBackground(new java.awt.Color(255, 255, 255));
+        jTabbedPane3.setOpaque(true);
+        jTabbedPane3.setPreferredSize(new java.awt.Dimension(671, 341));
+
+        jPanel6.setOpaque(false);
+        jPanel6.setPreferredSize(new java.awt.Dimension(671, 341));
+        jPanel6.setLayout(null);
+
+        jLabel12.setFont(new java.awt.Font("Times New Roman", 1, 15)); // NOI18N
+        jLabel12.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel12.setText("ESQUEMA CORPORAL");
+        jLabel12.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
+        jPanel6.add(jLabel12);
+        jLabel12.setBounds(0, 0, 560, 45);
+
+        jLabel13.setFont(new java.awt.Font("Times New Roman", 0, 15)); // NOI18N
+        jLabel13.setText("<html><justify>En esta clase se realizaron diferentes actividades físicas, que ejercitan los diversos músculos del cuerpo en general aprovechando el ambiente de trabajo, lo que permite oxigenar la irrigación sanguínea a lo largo de todo el organismo particularmente del sistema muscular. A este tipo de ejercicio se le suele llamar “Calentamiento Neuromuscular”..<html>");
+        jLabel13.setVerticalAlignment(javax.swing.SwingConstants.TOP);
+        jLabel13.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+        jPanel6.add(jLabel13);
+        jLabel13.setBounds(10, 53, 325, 280);
+
+        jLabel14.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
+        jLabel14.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+        jPanel6.add(jLabel14);
+        jLabel14.setBounds(345, 51, 210, 280);
+
+        jTabbedPane3.addTab("Clases", jPanel6);
+
+        jPanel7.setOpaque(false);
+        jPanel7.setPreferredSize(new java.awt.Dimension(671, 341));
+
+        jScrollPane3.setHorizontalScrollBarPolicy(javax.swing.ScrollPaneConstants.HORIZONTAL_SCROLLBAR_NEVER);
+
+        jLabel17.setBackground(new java.awt.Color(255, 255, 255));
+        jLabel17.setFont(new java.awt.Font("Times New Roman", 0, 14)); // NOI18N
+        jLabel17.setText("<html><center><b>Calentamiento Neuromuscular</b></center><justify><br><b>Que es?</b><br>es un conjunto de ejercicios ordenados graduados, de todos los músculos y articulaciones cuya<br>finalidad es preparar al organismo para mejor rendimiento. La finalidad del calentamiento es<br>conseguir que nuestro organismo alcance un nivel óptimo de forma paulatina, para que desde el<br>comienzo podamos rendir al máximo en la actividad. Y su finalidad es Entre las finalidades qué se<br>persiguen con la realización del acondicionamiento neuromuscular o calentamiento tenemos las<br>siguientes, Elevar la temperatura general del cuerpo, Elevar la temperatura interna muscular,<br>Alongar músculos y ligamentos, Aumentar el grado de excitabilidad del sistema nervioso central.<br><br><center><img src = '../Imagenes/fondo.jpg'></center><html>");
+        jLabel17.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
+        jLabel17.setOpaque(true);
+        jScrollPane3.setViewportView(jLabel17);
+
+        javax.swing.GroupLayout jPanel7Layout = new javax.swing.GroupLayout(jPanel7);
+        jPanel7.setLayout(jPanel7Layout);
+        jPanel7Layout.setHorizontalGroup(
+            jPanel7Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addComponent(jScrollPane3, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, 561, Short.MAX_VALUE)
+        );
+        jPanel7Layout.setVerticalGroup(
+            jPanel7Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addComponent(jScrollPane3, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, 337, Short.MAX_VALUE)
+        );
+
+        jTabbedPane3.addTab("Calentamiento Neuromuscular", jPanel7);
+
         javax.swing.GroupLayout EsquemaCorporalLayout = new javax.swing.GroupLayout(EsquemaCorporal);
         EsquemaCorporal.setLayout(EsquemaCorporalLayout);
         EsquemaCorporalLayout.setHorizontalGroup(
             EsquemaCorporalLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 570, Short.MAX_VALUE)
+            .addComponent(jTabbedPane3, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, 566, Short.MAX_VALUE)
         );
         EsquemaCorporalLayout.setVerticalGroup(
             EsquemaCorporalLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 365, Short.MAX_VALUE)
+            .addGroup(EsquemaCorporalLayout.createSequentialGroup()
+                .addComponent(jTabbedPane3, javax.swing.GroupLayout.PREFERRED_SIZE, 365, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(0, 0, Short.MAX_VALUE))
         );
 
         jTabbedPaneMenu.addTab("Esquema corporal", EsquemaCorporal);
@@ -235,7 +319,7 @@ public class Front extends javax.swing.JFrame {
         HabilidadesFisicas.setLayout(HabilidadesFisicasLayout);
         HabilidadesFisicasLayout.setHorizontalGroup(
             HabilidadesFisicasLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 570, Short.MAX_VALUE)
+            .addGap(0, 566, Short.MAX_VALUE)
         );
         HabilidadesFisicasLayout.setVerticalGroup(
             HabilidadesFisicasLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -250,7 +334,7 @@ public class Front extends javax.swing.JFrame {
         LanzarAtrapar.setLayout(LanzarAtraparLayout);
         LanzarAtraparLayout.setHorizontalGroup(
             LanzarAtraparLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 570, Short.MAX_VALUE)
+            .addGap(0, 566, Short.MAX_VALUE)
         );
         LanzarAtraparLayout.setVerticalGroup(
             LanzarAtraparLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -265,7 +349,7 @@ public class Front extends javax.swing.JFrame {
         CapacidadesCondicionales.setLayout(CapacidadesCondicionalesLayout);
         CapacidadesCondicionalesLayout.setHorizontalGroup(
             CapacidadesCondicionalesLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 570, Short.MAX_VALUE)
+            .addGap(0, 566, Short.MAX_VALUE)
         );
         CapacidadesCondicionalesLayout.setVerticalGroup(
             CapacidadesCondicionalesLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -280,7 +364,7 @@ public class Front extends javax.swing.JFrame {
         PrimerParcial.setLayout(PrimerParcialLayout);
         PrimerParcialLayout.setHorizontalGroup(
             PrimerParcialLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 570, Short.MAX_VALUE)
+            .addGap(0, 566, Short.MAX_VALUE)
         );
         PrimerParcialLayout.setVerticalGroup(
             PrimerParcialLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -295,7 +379,7 @@ public class Front extends javax.swing.JFrame {
         Desplazamiento.setLayout(DesplazamientoLayout);
         DesplazamientoLayout.setHorizontalGroup(
             DesplazamientoLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 570, Short.MAX_VALUE)
+            .addGap(0, 566, Short.MAX_VALUE)
         );
         DesplazamientoLayout.setVerticalGroup(
             DesplazamientoLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -310,7 +394,7 @@ public class Front extends javax.swing.JFrame {
         Coordinacion.setLayout(CoordinacionLayout);
         CoordinacionLayout.setHorizontalGroup(
             CoordinacionLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 570, Short.MAX_VALUE)
+            .addGap(0, 566, Short.MAX_VALUE)
         );
         CoordinacionLayout.setVerticalGroup(
             CoordinacionLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -325,7 +409,7 @@ public class Front extends javax.swing.JFrame {
         SemanaSanta.setLayout(SemanaSantaLayout);
         SemanaSantaLayout.setHorizontalGroup(
             SemanaSantaLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 570, Short.MAX_VALUE)
+            .addGap(0, 566, Short.MAX_VALUE)
         );
         SemanaSantaLayout.setVerticalGroup(
             SemanaSantaLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -340,7 +424,7 @@ public class Front extends javax.swing.JFrame {
         EjerciciosDeBajoImpacto.setLayout(EjerciciosDeBajoImpactoLayout);
         EjerciciosDeBajoImpactoLayout.setHorizontalGroup(
             EjerciciosDeBajoImpactoLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 570, Short.MAX_VALUE)
+            .addGap(0, 566, Short.MAX_VALUE)
         );
         EjerciciosDeBajoImpactoLayout.setVerticalGroup(
             EjerciciosDeBajoImpactoLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -355,7 +439,7 @@ public class Front extends javax.swing.JFrame {
         SegundoParcial.setLayout(SegundoParcialLayout);
         SegundoParcialLayout.setHorizontalGroup(
             SegundoParcialLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 570, Short.MAX_VALUE)
+            .addGap(0, 566, Short.MAX_VALUE)
         );
         SegundoParcialLayout.setVerticalGroup(
             SegundoParcialLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -370,7 +454,7 @@ public class Front extends javax.swing.JFrame {
         CompetenciaAtletica.setLayout(CompetenciaAtleticaLayout);
         CompetenciaAtleticaLayout.setHorizontalGroup(
             CompetenciaAtleticaLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 570, Short.MAX_VALUE)
+            .addGap(0, 566, Short.MAX_VALUE)
         );
         CompetenciaAtleticaLayout.setVerticalGroup(
             CompetenciaAtleticaLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -385,7 +469,7 @@ public class Front extends javax.swing.JFrame {
         ElJuego.setLayout(ElJuegoLayout);
         ElJuegoLayout.setHorizontalGroup(
             ElJuegoLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 570, Short.MAX_VALUE)
+            .addGap(0, 566, Short.MAX_VALUE)
         );
         ElJuegoLayout.setVerticalGroup(
             ElJuegoLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -400,7 +484,7 @@ public class Front extends javax.swing.JFrame {
         Velocidad.setLayout(VelocidadLayout);
         VelocidadLayout.setHorizontalGroup(
             VelocidadLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 570, Short.MAX_VALUE)
+            .addGap(0, 566, Short.MAX_VALUE)
         );
         VelocidadLayout.setVerticalGroup(
             VelocidadLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -493,6 +577,12 @@ public class Front extends javax.swing.JFrame {
     private javax.swing.JPanel SemanaSanta;
     private javax.swing.JPanel Velocidad;
     private javax.swing.JLabel jLabel1;
+    private javax.swing.JLabel jLabel10;
+    private javax.swing.JLabel jLabel11;
+    private javax.swing.JLabel jLabel12;
+    private javax.swing.JLabel jLabel13;
+    private javax.swing.JLabel jLabel14;
+    private javax.swing.JLabel jLabel17;
     private javax.swing.JLabel jLabel2;
     private javax.swing.JLabel jLabel3;
     private javax.swing.JLabel jLabel4;
@@ -500,6 +590,7 @@ public class Front extends javax.swing.JFrame {
     private javax.swing.JLabel jLabel6;
     private javax.swing.JLabel jLabel7;
     private javax.swing.JLabel jLabel8;
+    private javax.swing.JLabel jLabel9;
     private javax.swing.JMenu jMenu1;
     private javax.swing.JMenu jMenu2;
     private javax.swing.JMenuBar jMenuBar1;
@@ -507,8 +598,13 @@ public class Front extends javax.swing.JFrame {
     private javax.swing.JPanel jPanel20;
     private javax.swing.JPanel jPanel4;
     private javax.swing.JPanel jPanel5;
+    private javax.swing.JPanel jPanel6;
+    private javax.swing.JPanel jPanel7;
     private javax.swing.JScrollPane jScrollPane1;
+    private javax.swing.JScrollPane jScrollPane2;
+    private javax.swing.JScrollPane jScrollPane3;
     private javax.swing.JTabbedPane jTabbedPane2;
+    private javax.swing.JTabbedPane jTabbedPane3;
     private javax.swing.JTabbedPane jTabbedPaneMenu;
     // End of variables declaration//GEN-END:variables
 }
