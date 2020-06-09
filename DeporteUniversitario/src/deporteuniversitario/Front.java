@@ -115,15 +115,6 @@ public class Front extends javax.swing.JFrame {
         jPanel19 = new javax.swing.JPanel();
         jScrollPane10 = new javax.swing.JScrollPane();
         jLabel40 = new javax.swing.JLabel();
-        SemanaSanta = new javax.swing.JPanel();
-        jTabbedPane10 = new javax.swing.JTabbedPane();
-        jPanel21 = new javax.swing.JPanel();
-        jLabel41 = new javax.swing.JLabel();
-        jLabel42 = new javax.swing.JLabel();
-        jLabel43 = new javax.swing.JLabel();
-        jPanel22 = new javax.swing.JPanel();
-        jScrollPane11 = new javax.swing.JScrollPane();
-        jLabel44 = new javax.swing.JLabel();
         EjerciciosDeBajoImpacto = new javax.swing.JPanel();
         jTabbedPane11 = new javax.swing.JTabbedPane();
         jPanel23 = new javax.swing.JPanel();
@@ -142,15 +133,6 @@ public class Front extends javax.swing.JFrame {
         jPanel26 = new javax.swing.JPanel();
         jScrollPane13 = new javax.swing.JScrollPane();
         jLabel52 = new javax.swing.JLabel();
-        CompetenciaAtletica = new javax.swing.JPanel();
-        jTabbedPane13 = new javax.swing.JTabbedPane();
-        jPanel27 = new javax.swing.JPanel();
-        jLabel53 = new javax.swing.JLabel();
-        jLabel54 = new javax.swing.JLabel();
-        jLabel55 = new javax.swing.JLabel();
-        jPanel28 = new javax.swing.JPanel();
-        jScrollPane14 = new javax.swing.JScrollPane();
-        jLabel56 = new javax.swing.JLabel();
         ElJuego = new javax.swing.JPanel();
         jTabbedPane14 = new javax.swing.JTabbedPane();
         jPanel29 = new javax.swing.JPanel();
@@ -235,7 +217,7 @@ public class Front extends javax.swing.JFrame {
             + "<br><li type=\"disc\"><b>Lávese las manos frecuentemente:</b> Las manos tocan muchas superficies que<br>pueden estar contaminadas con el virus. Si se toca los ojos, la nariz o la boca con las<br>manos contaminadas, puedes transferir el virus de la superficie a si mismo.</li><br>"
             + "<br><li type=\"disc\"><b>Si tiene fiebre, tos y dificultad para respirar, solicite atención médica a tiempo:</b><br> Indique a su prestador de atención de salud si ha viajado a una zona de China en la que se<br>haya notificado la presencia del 2019-nCoV, o si ha tenido un contacto cercano con<br>alguien que haya viajado desde China y tenga síntomas respiratorios.</li><br>Siempre que tenga fiebre, tos y dificultad para respirar, es importante que busque<br>atención médica de inmediato, ya que dichos síntomas pueden deberse a una infección respiratoria o<br>a otra afección grave. Los síntomas respiratorios con fiebre pueden tener diversas<br>causas, y dependiendo de sus antecedentes de viajes y circunstancias personales,<br>el 2019-nCoVpodría ser una de ellas."
             + "</ul><br><center><b>MANTÉNGASE SIEMPRE INFORMAD@</b></center><br>"
-            + "<br><a href=\"https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/infografia-coronavirus-adulto-mayor-19.pdf\">www.minsalud.gov.co</a><br><html>");
+            + "<br><a href='https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/infografia-coronavirus-adulto-mayor-19.pdf'>www.minsalud.gov.co</a>, <a href='https://espanol.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html'>https://espanol.cdc.gov/</a>, <a href='https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public?gclid=Cj0KCQjww_f2BRC-ARIsAP3zarHsAIgETD60tvvImu92yL0TeymwhRHAKpobi42-O8QZcMsZlLGvRnUaAlrhEALw_wcB'>https://www.who.int/</a><br><html>");
         jLabel19.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
         jLabel19.setOpaque(true);
         jScrollPane5.setViewportView(jLabel19);
@@ -248,7 +230,7 @@ public class Front extends javax.swing.JFrame {
         );
         jPanel20Layout.setVerticalGroup(
             jPanel20Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addComponent(jScrollPane5, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, 365, Short.MAX_VALUE)
+            .addComponent(jScrollPane5, javax.swing.GroupLayout.DEFAULT_SIZE, 365, Short.MAX_VALUE)
         );
 
         jTabbedPaneMenu.addTab("Info.util : Prevencion Covid-19", jPanel20);
@@ -847,77 +829,6 @@ public class Front extends javax.swing.JFrame {
 
         jTabbedPaneMenu.addTab("Coordinacion", Coordinacion);
 
-        SemanaSanta.setOpaque(false);
-
-        jTabbedPane10.setBackground(new java.awt.Color(255, 255, 255));
-        jTabbedPane10.setOpaque(true);
-        jTabbedPane10.setPreferredSize(new java.awt.Dimension(671, 341));
-
-        jPanel21.setOpaque(false);
-        jPanel21.setPreferredSize(new java.awt.Dimension(671, 341));
-        jPanel21.setLayout(null);
-
-        jLabel41.setFont(new java.awt.Font("Times New Roman", 1, 15)); // NOI18N
-        jLabel41.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel41.setText("SEMANA SANTA : INFOMACION");
-        jLabel41.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
-        jPanel21.add(jLabel41);
-        jLabel41.setBounds(0, 0, 560, 45);
-
-        jLabel42.setFont(new java.awt.Font("Times New Roman", 0, 15)); // NOI18N
-        jLabel42.setText("<html><justify>FALTA EDITAR DOCX<html>");
-        jLabel42.setVerticalAlignment(javax.swing.SwingConstants.TOP);
-        jLabel42.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
-        jPanel21.add(jLabel42);
-        jLabel42.setBounds(10, 53, 325, 280);
-
-        jLabel43.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
-        jLabel43.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
-        jPanel21.add(jLabel43);
-        jLabel43.setBounds(345, 51, 210, 280);
-
-        jTabbedPane10.addTab("Clases", jPanel21);
-
-        jPanel22.setOpaque(false);
-        jPanel22.setPreferredSize(new java.awt.Dimension(671, 341));
-
-        jScrollPane11.setHorizontalScrollBarPolicy(javax.swing.ScrollPaneConstants.HORIZONTAL_SCROLLBAR_NEVER);
-
-        jLabel44.setBackground(new java.awt.Color(255, 255, 255));
-        jLabel44.setFont(new java.awt.Font("Times New Roman", 0, 14)); // NOI18N
-        jLabel44.setText("<html><center><b>Calentamiento Neuromuscular</b></center><justify><br><b>QUE ES?</b><br>es un conjunto de ejercicios ordenados graduados, de todos los músculos y articulaciones cuya<br>finalidad es preparar al organismo para mejor rendimiento. La finalidad del calentamiento es<br>conseguir que nuestro organismo alcance un nivel óptimo de forma paulatina, para que desde el<br>comienzo podamos rendir al máximo en la actividad. Y su finalidad es Entre las finalidades qué se<br>persiguen con la realización del acondicionamiento neuromuscular o calentamiento tenemos las<br>siguientes, Elevar la temperatura general del cuerpo, Elevar la temperatura interna muscular,<br>Alongar músculos y ligamentos, Aumentar el grado de excitabilidad del sistema nervioso central.<br><br><center><img src = '../Imagenes/fondo.jpg'></center><html>");
-        jLabel44.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
-        jLabel44.setOpaque(true);
-        jScrollPane11.setViewportView(jLabel44);
-
-        javax.swing.GroupLayout jPanel22Layout = new javax.swing.GroupLayout(jPanel22);
-        jPanel22.setLayout(jPanel22Layout);
-        jPanel22Layout.setHorizontalGroup(
-            jPanel22Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addComponent(jScrollPane11, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, 561, Short.MAX_VALUE)
-        );
-        jPanel22Layout.setVerticalGroup(
-            jPanel22Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addComponent(jScrollPane11, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, 337, Short.MAX_VALUE)
-        );
-
-        jTabbedPane10.addTab("Calentamiento Neuromuscular", jPanel22);
-
-        javax.swing.GroupLayout SemanaSantaLayout = new javax.swing.GroupLayout(SemanaSanta);
-        SemanaSanta.setLayout(SemanaSantaLayout);
-        SemanaSantaLayout.setHorizontalGroup(
-            SemanaSantaLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addComponent(jTabbedPane10, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, 566, Short.MAX_VALUE)
-        );
-        SemanaSantaLayout.setVerticalGroup(
-            SemanaSantaLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(SemanaSantaLayout.createSequentialGroup()
-                .addComponent(jTabbedPane10, javax.swing.GroupLayout.PREFERRED_SIZE, 365, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addGap(0, 0, Short.MAX_VALUE))
-        );
-
-        jTabbedPaneMenu.addTab("Semana santa : Info", SemanaSanta);
-
         EjerciciosDeBajoImpacto.setOpaque(false);
 
         jTabbedPane11.setBackground(new java.awt.Color(255, 255, 255));
@@ -1059,77 +970,6 @@ public class Front extends javax.swing.JFrame {
         );
 
         jTabbedPaneMenu.addTab("Segundo parcial:Informacion", SegundoParcial);
-
-        CompetenciaAtletica.setOpaque(false);
-
-        jTabbedPane13.setBackground(new java.awt.Color(255, 255, 255));
-        jTabbedPane13.setOpaque(true);
-        jTabbedPane13.setPreferredSize(new java.awt.Dimension(671, 341));
-
-        jPanel27.setOpaque(false);
-        jPanel27.setPreferredSize(new java.awt.Dimension(671, 341));
-        jPanel27.setLayout(null);
-
-        jLabel53.setFont(new java.awt.Font("Times New Roman", 1, 15)); // NOI18N
-        jLabel53.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel53.setText("COMPETENCIA ATLETICA");
-        jLabel53.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
-        jPanel27.add(jLabel53);
-        jLabel53.setBounds(0, 0, 560, 45);
-
-        jLabel54.setFont(new java.awt.Font("Times New Roman", 0, 15)); // NOI18N
-        jLabel54.setText("<html><justify>En esta clase se realizaron diferentes actividades físicas, que ejercitan los diversos músculos del cuerpo en general aprovechando el ambiente de trabajo, lo que permite oxigenar la irrigación sanguínea a lo largo de todo el organismo particularmente del sistema muscular. A este tipo de ejercicio se le suele llamar “Calentamiento Neuromuscular”..<html>");
-        jLabel54.setVerticalAlignment(javax.swing.SwingConstants.TOP);
-        jLabel54.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
-        jPanel27.add(jLabel54);
-        jLabel54.setBounds(10, 53, 325, 280);
-
-        jLabel55.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
-        jLabel55.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
-        jPanel27.add(jLabel55);
-        jLabel55.setBounds(345, 51, 210, 280);
-
-        jTabbedPane13.addTab("Clases", jPanel27);
-
-        jPanel28.setOpaque(false);
-        jPanel28.setPreferredSize(new java.awt.Dimension(671, 341));
-
-        jScrollPane14.setHorizontalScrollBarPolicy(javax.swing.ScrollPaneConstants.HORIZONTAL_SCROLLBAR_NEVER);
-
-        jLabel56.setBackground(new java.awt.Color(255, 255, 255));
-        jLabel56.setFont(new java.awt.Font("Times New Roman", 0, 14)); // NOI18N
-        jLabel56.setText("<html><center><b>Calentamiento Neuromuscular</b></center><justify><br><b>QUE ES?</b><br>es un conjunto de ejercicios ordenados graduados, de todos los músculos y articulaciones cuya<br>finalidad es preparar al organismo para mejor rendimiento. La finalidad del calentamiento es<br>conseguir que nuestro organismo alcance un nivel óptimo de forma paulatina, para que desde el<br>comienzo podamos rendir al máximo en la actividad. Y su finalidad es Entre las finalidades qué se<br>persiguen con la realización del acondicionamiento neuromuscular o calentamiento tenemos las<br>siguientes, Elevar la temperatura general del cuerpo, Elevar la temperatura interna muscular,<br>Alongar músculos y ligamentos, Aumentar el grado de excitabilidad del sistema nervioso central.<br><br><center><img src = '../Imagenes/fondo.jpg'></center><html>");
-        jLabel56.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
-        jLabel56.setOpaque(true);
-        jScrollPane14.setViewportView(jLabel56);
-
-        javax.swing.GroupLayout jPanel28Layout = new javax.swing.GroupLayout(jPanel28);
-        jPanel28.setLayout(jPanel28Layout);
-        jPanel28Layout.setHorizontalGroup(
-            jPanel28Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addComponent(jScrollPane14, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, 561, Short.MAX_VALUE)
-        );
-        jPanel28Layout.setVerticalGroup(
-            jPanel28Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addComponent(jScrollPane14, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, 337, Short.MAX_VALUE)
-        );
-
-        jTabbedPane13.addTab("Calentamiento Neuromuscular", jPanel28);
-
-        javax.swing.GroupLayout CompetenciaAtleticaLayout = new javax.swing.GroupLayout(CompetenciaAtletica);
-        CompetenciaAtletica.setLayout(CompetenciaAtleticaLayout);
-        CompetenciaAtleticaLayout.setHorizontalGroup(
-            CompetenciaAtleticaLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addComponent(jTabbedPane13, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, 566, Short.MAX_VALUE)
-        );
-        CompetenciaAtleticaLayout.setVerticalGroup(
-            CompetenciaAtleticaLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(CompetenciaAtleticaLayout.createSequentialGroup()
-                .addComponent(jTabbedPane13, javax.swing.GroupLayout.PREFERRED_SIZE, 365, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addGap(0, 0, Short.MAX_VALUE))
-        );
-
-        jTabbedPaneMenu.addTab("Competencia Atlética ", CompetenciaAtletica);
 
         ElJuego.setOpaque(false);
 
@@ -1334,7 +1174,6 @@ public class Front extends javax.swing.JFrame {
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JPanel CapacidadesCondicionales;
-    private javax.swing.JPanel CompetenciaAtletica;
     private javax.swing.JPanel Coordinacion;
     private javax.swing.JPanel Desplazamiento;
     private javax.swing.JPanel EjerciciosDeBajoImpacto;
@@ -1346,7 +1185,6 @@ public class Front extends javax.swing.JFrame {
     private javax.swing.JPanel Presentacion;
     private javax.swing.JPanel PrimerParcial;
     private javax.swing.JPanel SegundoParcial;
-    private javax.swing.JPanel SemanaSanta;
     private javax.swing.JPanel Velocidad;
     private javax.swing.JLabel jLabel1;
     private javax.swing.JLabel jLabel10;
@@ -1383,10 +1221,6 @@ public class Front extends javax.swing.JFrame {
     private javax.swing.JLabel jLabel39;
     private javax.swing.JLabel jLabel4;
     private javax.swing.JLabel jLabel40;
-    private javax.swing.JLabel jLabel41;
-    private javax.swing.JLabel jLabel42;
-    private javax.swing.JLabel jLabel43;
-    private javax.swing.JLabel jLabel44;
     private javax.swing.JLabel jLabel45;
     private javax.swing.JLabel jLabel46;
     private javax.swing.JLabel jLabel47;
@@ -1396,10 +1230,6 @@ public class Front extends javax.swing.JFrame {
     private javax.swing.JLabel jLabel50;
     private javax.swing.JLabel jLabel51;
     private javax.swing.JLabel jLabel52;
-    private javax.swing.JLabel jLabel53;
-    private javax.swing.JLabel jLabel54;
-    private javax.swing.JLabel jLabel55;
-    private javax.swing.JLabel jLabel56;
     private javax.swing.JLabel jLabel57;
     private javax.swing.JLabel jLabel58;
     private javax.swing.JLabel jLabel59;
@@ -1424,14 +1254,10 @@ public class Front extends javax.swing.JFrame {
     private javax.swing.JPanel jPanel18;
     private javax.swing.JPanel jPanel19;
     private javax.swing.JPanel jPanel20;
-    private javax.swing.JPanel jPanel21;
-    private javax.swing.JPanel jPanel22;
     private javax.swing.JPanel jPanel23;
     private javax.swing.JPanel jPanel24;
     private javax.swing.JPanel jPanel25;
     private javax.swing.JPanel jPanel26;
-    private javax.swing.JPanel jPanel27;
-    private javax.swing.JPanel jPanel28;
     private javax.swing.JPanel jPanel29;
     private javax.swing.JPanel jPanel30;
     private javax.swing.JPanel jPanel31;
@@ -1444,10 +1270,8 @@ public class Front extends javax.swing.JFrame {
     private javax.swing.JPanel jPanel9;
     private javax.swing.JScrollPane jScrollPane1;
     private javax.swing.JScrollPane jScrollPane10;
-    private javax.swing.JScrollPane jScrollPane11;
     private javax.swing.JScrollPane jScrollPane12;
     private javax.swing.JScrollPane jScrollPane13;
-    private javax.swing.JScrollPane jScrollPane14;
     private javax.swing.JScrollPane jScrollPane15;
     private javax.swing.JScrollPane jScrollPane16;
     private javax.swing.JScrollPane jScrollPane2;
@@ -1458,10 +1282,8 @@ public class Front extends javax.swing.JFrame {
     private javax.swing.JScrollPane jScrollPane7;
     private javax.swing.JScrollPane jScrollPane8;
     private javax.swing.JScrollPane jScrollPane9;
-    private javax.swing.JTabbedPane jTabbedPane10;
     private javax.swing.JTabbedPane jTabbedPane11;
     private javax.swing.JTabbedPane jTabbedPane12;
-    private javax.swing.JTabbedPane jTabbedPane13;
     private javax.swing.JTabbedPane jTabbedPane14;
     private javax.swing.JTabbedPane jTabbedPane15;
     private javax.swing.JTabbedPane jTabbedPane2;
